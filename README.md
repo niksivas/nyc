@@ -1,1 +1,2 @@
-# nyc
+# New York: Travel & Tourism
+The focus of this visualisation is mainly on New York City (NYC) with the occasional comparison between the states in the U.S.A. to give a better overall idea of the impact, number of international visitors, accommodations available in the five boroughs of NYC, a must-visit place and the overall safety of the New York state. The visualisation's main perogative is to give an idea or possibily a recommendation to viewers. Click on this link, to view entire visualisation (best-viewed on Laptop via Chrome): https://niksivas.github.io/nyc/ 
