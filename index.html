@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <!-- <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> -->
+    
+     <!-- OG Meta Tags to improve the way the post looks when you share the page on LinkedIn, Facebook, Google+ -->
+	<meta property="og:site_name" content="" /> <!-- website name -->
+	<meta property="og:site" content="" /> <!-- website link -->
+	<meta property="og:title" content=""/> <!-- title shown in the actual shared post -->
+	<meta property="og:description" content="" /> <!-- description shown in the actual shared post -->
+	<meta property="og:image" content="" /> <!-- image link, make sure it's jpg -->
+	<meta property="og:url" content="" /> <!-- where do you want your post to link to -->
+	<meta property="og:type" content="article" />
+
+      
+    <!-- FONTS -->
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:500,700&display=swap&subset=latin-ext" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,600&display=swap&subset=latin-ext" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,700;0,800;1,400;1,800&display=swap" rel="stylesheet">
+   
+    
+    <!-- STYLES -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/fontawesome-all.css" rel="stylesheet">
+    <link href="css/swiper.css" rel="stylesheet">
+	<link href="css/magnific-popup.css" rel="stylesheet">
+	<link href="css/style2.css" rel="stylesheet">
+	
+</head>  
+    
+<!-- PRELOADER (THREE DOTS) -->
+    <div class="spinner-wrapper">
+        <div class="spinner">
+            <div class="bounce1"></div>
+            <div class="bounce2"></div>
+            <div class="bounce3"></div>
+        </div>
+    </div>
+<!-- END OF PRELOADER -->
+
+
+<!-- WEBSITE TITLE (THAT WILL APPEAR IN THE TAB) -->
+    <title>NEW YORK: TRAVEL & TOURISM</title>
+    
+
+<!-- IMPORT VEGA, VEGA-LITE -->
+ 
+    <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@4"></script>
+    <!-- Import vega-embed -->
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    <!-- Import pure.css -->
+    <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/pure-min.css" integrity="sha384-cg6SkqEOCV1NbJoCu11+bm0NvBRc8IYLRGXkmNrqUBfTjmMYwNKPWBTIKyw9mHNJ" crossorigin="anonymous">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+
+
+<!-- HEADER or BANNER of NEW YORK CITY SKYLINE  -->
+    
+    <header id="banner">
+        <img src="./images/bg.jpg" alt="bg" id="bg">
+        <img src="./images/newyork.png" alt="newyork" id="newyork">
+        <div class="header1">
+        <h2 id="text">NEW YORK CITY</h2>
+        <br>
+        <p id = "text1" style="text-align: center">Travel and Tourism</p>
+        <br><br><br>
+        </div>
+    </header>
+
+<body>
+
+<!-- OBJECTIVE/DESCRIPTION -->
+<div class="card">
+    <div><p id="text2" style="text-align: center"><b>New York City (NYC)</b> fondly known as the "Big Apple", is a bustling metropolis situated in the state of New York, United States of America (U.S.A) and one of the most popular tourist destinations in the world. As a melting pot of culture, finance, trade and art, New York City has something for every style, taste and budget.
+        </p></div>
+</div>
+
+
+<!-- CHART TITLE 1 -->
+<header id="hea1">
+    <div class="wrap">
+      <h2>IMPACT OF TOURISM</h2>
+    </div>
+</header>
+
+<!-- Feature Row 1 -->
+<div class="row">
+    <article class="col-md-6 article">
+        <br><br><br>
+        <a href="#"><div class="image"></a>
+            <div id="vis1" class="vis-container"></div>
+        </div>
+    </article>
+
+    <div id="desc1" article class="col-md-6 article">
+        <br><br><br>
+        <h3>
+        How has Tourism affected New York compared to other U.S.A states?
+        </h3><br><br>
+        
+        <!-- <p><b>New York</b>, fondly referred to as the “Big Apple”, has the <b>second</b> largest tourism GDP in the U.S.A. (as of 2018), undoubtedly making it an important gateway for tourists.</p> -->
+        <p style="font-size: 18.2px">As of 2018, <b>New York</b> state has the <b>second</b> highest contribution of Tourism GDP amongst all other United States of America (U.S.A) states.</p>
+    </article>
+    <div class ="row-md-3 text-center">
+        <img id = "eight" src="./images/8,7.png" width="390", height="90">
+    </div>
+    </div>
+  
+</div>
+<!-- END Feature Row 1 -->
+
+<br>
+
+
+
+<!-- CHART TITLE 2 -->
+<header id="hea2">
+    <div class="wrap">
+      <h2>INTERNATIONAL VISITORS</h2>
+    </div>
+</header>
+
+<!-- Feature Row 2 -->
+<div class="row">
+
+    <article class="col-md-6 article">
+        <br><br><br>
+        <a href="#"></a><div class="image"></a>
+            <div id="vis2" class="vis-container"></div>
+        </div>
+        
+    </article>
+
+    <span class = "image counter" id="desc2" article class="col-md-6 article">
+        <br><br><br>
+        <h3>
+        Which countries have the highest International Visitors travelling to NYC?
+        </h3><br><br>
+        <p style="font-size: 18.2px">The <b>top 3 countries</b> with the <u><i><span style="color: #683dad; font-size: 18px"> highest</span></i></u> number of visitors <i>travelling</i> to New York City are:</p>
+ </article>
+    <!-- Counter -->
+    <span id="counter">
+        <span class="cell">
+            <span class="counter-value number-count" data-count="231">1</span>
+            <span class="counter-info"><b style="font-size: 18px">United Kingdom</b></span>
+        </span>
+        <br>
+        <span class="cell">
+            <span class="counter-value number-count" data-count="121">2<br></span>
+            <span class="counter-info"><b style="font-size: 18px">China (PRC)</b></span>
+        </span>
+        <br>
+        <span class="cell">
+            <span class="counter-value number-count" data-count="159">3<br></span>
+            <span class="counter-info"><b style="font-size: 18px">Canada</b></span>
+        </span>
+    </span>
+    <!-- end of counter -->
+</div>
+<!-- END Feature Row 2 -->
+
+
+
+
+<!-- CHART TITLE 3 -->
+<header id="hea3">
+    <div class="wrap">
+      <h2>WEATHER</h2>
+    </div>
+</header>
+
+<!-- Feature Row 3 -->
+<div class="row">
+
+    <article class="col-md-6 article">
+        <br><br><br>
+        <a href="#"><div class="image"></a>
+            <div id="vis3" class="vis-container"></div>
+        </div>
+    </article>
+
+    <div id="desc1" article class="col-md-6 article-intro">
+        <br><br><br>
+        <h3>
+        What are the best times to travel to NYC?
+        </h3>
+    </article>
+
+    <div class="logo-small">
+        <div class="icon-small"><img src="./images/sun.png" alt="Logo" width="50" height="50"></div>
+        <div class="text-small">The weather is usually <span style="color:rgb(199, 119, 15); font-size:18px">warmer</span> during the months of <b>June</b> to <b>September</b>.</div>
+    </div>
+    
+    <div class="logo-small">
+        <div class="icon-small"><img src="./images/snowflake.png" alt="Logo" width="50" height="50"></div>
+        <div class="text-small">The <span style="color:rgb(13, 115, 163); font-size:18px">colder</span> weather usually occurs between the months of <b>December</b> to <b>March</b>.</div>
+    </div>
+</div>
+</div>
+</div>
+<!-- END Feature Row 3 -->
+
+<br>
+
+<!-- CHART TITLE 4 -->
+<header id="hea2">
+    <div class="wrap">
+      <h2>ACCOMODATION</h2>
+    </div>
+</header>
+
+<!-- Feature Row 4 -->
+<div class="row">
+
+    <article class="col-md-6 article">
+        <br><br><br>
+        <a href="#"></a><div class="image"></a>
+            <div id="vis4" class="vis-container"></div>
+        </div>
+        
+    </article>
+
+    <div id="desc2" article class="col-md-6 article-intro">
+        <br><br><br>
+        <h3>
+        What are the different choices of AirBnb's available in the five boroughs?
+        </h3><br><br>
+        <p>The wide variety of room types available in New York City, allows visitors to have their pick in accomodation. In <b><span style="color: #3690c0; font-size:18px">Manhattan</span></b>, usually <i><b><span style="color: #cb181d; font-size:18px">entire</span> apartments</b></i> are rented out to give privacy to their guests.</p>
+        <br><p>Furthermore, <i><b><span style="color: #67000d; font-size:18px">private</span> rooms</b></i> are mostly rented out in <b><span style="color: #0570b0; font-size:18px">Brooklyn</span></b>, compared to the other boroughs.</p> 
+        <div class ="row-md-3 text-center">
+            <img id = "airbnb" src="./images/airbnb-1.png" width="60", height="65">
+        </div>
+    </article>
+    </div> 
+    <!-- end of counter -->
+</div>
+<!-- END Feature Row 4 -->
+
+
+
+
+<!-- CHART TITLE 5 -->
+<header id="hea1">
+    <div class="wrap">
+      <h2>TOURIST ATTRACTIONS</h2>
+    </div>
+</header>
+
+<!-- Feature Row 5 -->
+<div class="row">
+
+    <article class="col-md-6 article">
+        <br><br><br>
+        <a href="#"><div class="image"></a>
+            <div id="vis5" class="vis-container"></div>
+        </div>
+    </article>
+
+    <div id="desc1" article class="col-md-6 article-intro">
+        <br><br><br>
+        <h3>
+        What is a 'must-visit' place to check out in NYC?
+        </h3><br><br>
+        <p>The best <b><span style="color:rgb(2, 92, 2); font-size:18px">Farmers' Markets</span></b> should not be missed as the five NYC Boroughs have a varied range of organic food produce. Of all the boroughs, <b>Brooklyn</b> has more markets available, most of which are open on <b><span style="color:green; font-size:18px">Saturdays</span></b> between <b><span style="color:green; font-size:18px">8 a.m to 3 p.m.</span></b></p>
+        <br>
+        <div class ="row-md-3 text-center">
+            <img id = "stan" src="./images/stand.png" width="120", height="120">
+        </div>
+    </article>
+    </div>
+
+    
+    <br><br>
+</div>
+<!-- END Feature Row 5 -->
+
+
+
+
+<!-- CHART TITLE 6 -->
+<header id="hea1">
+    <div class="wrap">
+      <h2>SAFETY</h2>
+    </div>
+</header>
+
+
+<!-- Feature Row 6 -->
+<div class="row">
+
+    <article class="col-md-6 article">
+        <br><br><br>
+        <a href="#"></a><div class="image"></a>
+            <div id="vis6" class="vis-container"></div>
+        </div>
+        
+    </article>
+
+    <div id="desc2" article class="col-md-6 article-intro">
+        <br><br><br>
+        <h3>
+        Overall, is New York City safe for tourists?
+        </h3><br><br>
+        <!-- <p>New York state is a comparatively <b>safer</b> place compared to other states in the U.S.A., as the hate crime rate per 100,000 of the population is lower. Thus, this is reassuring the personal safety and wellbeing of tourists in the city.</p>
+       -->
+      <p><b>New York</b> state is <b>generally safe</b> for tourists as the <i><span style="color:rgb(194, 51, 26); font-size:18px">average hate crime rate</span></span></i>  per 100,000 of the population is <b><span style="color:rgb(194, 51, 26); font-size:19px">3.1</span></b> which is <i><b>lower</b></i> compared to many other U.S.A states such as Massachusetts. Thus, this is reassuring the personal safety and wellbeing of tourists in the city.</p>
+      
+       <div class ="row-md-3 text-center">
+            <img id = "police" src="./images/policeman.png" width="100", height="100">
+        </div>
+    </article>
+    </div>
+    <!-- end of counter -->
+</div>
+<!-- END Feature Row 6 -->
+
+<br>
+
+<!-- Footer -->
+<header id="footer4" style="text-align: center">
+    <div class="wrap" >
+        <span style=" font-size: 12px">Data sources obtained from Kaggle, NYC Data, Inside AirBnb and S&P Global</span> <br>
+        <span style="font-size: 14px">Visualisation designed by <b><a href = https://github.com/niksivas/nyc><span style="color:rgb(20, 5, 2)">Nikhitha</span></a></b></span>
+    </div>
+</header>
+
+  <!-- Footer -->
+
+
+
+<!-- SCRIPTS -->
+    <script src="js/jquery.min.js"></script> <!-- jQuery for Bootstrap's JavaScript plugins -->
+    <script src="js/popper.min.js"></script> <!-- Popper tooltip library for Bootstrap -->
+    <script src="js/bootstrap.min.js"></script> <!-- Bootstrap framework -->
+    <script src="js/jquery.easing.min.js"></script> <!-- jQuery Easing for smooth scrolling between anchors -->
+    <script src="js/swiper.min.js"></script> <!-- Swiper for image and text sliders -->
+    <script src="js/jquery.magnific-popup.js"></script> <!-- Magnific Popup for lightboxes -->
+    <script src="js/morphext.min.js"></script> <!-- Morphtext rotating text in the header -->
+    <script src="js/isotope.pkgd.min.js"></script> <!-- Isotope for filter -->
+    <script src="js/validator.min.js"></script> <!-- Validator.js - Bootstrap plugin that validates forms -->
+    <script src="js/scripts.js"></script> <!-- Custom scripts -->
+
+    <script type="text/javascript">
+        let bg = document.getElementById("bg")
+        let newyork = document.getElementById("newyork")
+        let text = document.getElementById("text")
+        let text1 = document.getElementById("text1")
+
+        window.addEventListener("scroll", function () {
+
+            var value = window.scrollY;
+            console.log(value);
+
+            bg.style.top = value * 0.5 + "px";
+            newyork.style.top = 50 + (value * 0.5);
+            text.style.top = value * 0.4 + "px";
+            text1.style.top = value * 0.3 + "px";
+
+        })
+
+        var specVis1 = "https://raw.githubusercontent.com/niksivas/nyc/main/data/vl/1-vis.json";
+       
+        vegaEmbed('#vis1', specVis1, {"actions": false}).then(function(result) {
+            // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+        }).catch(console.error);
+
+        var specVis2 = "https://raw.githubusercontent.com/niksivas/nyc/main/data/vl/2-vis.json";
+       
+        vegaEmbed('#vis2', specVis2, {"actions": false}).then(function(result) {
+            // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+        }).catch(console.error);
+
+        var specVis3 = "https://raw.githubusercontent.com/niksivas/nyc/main/data/vl/3-vis.json";
+       
+       vegaEmbed('#vis3', specVis3, {"actions": false}).then(function(result) {
+           // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+       }).catch(console.error);
+
+       var specVis4 = "https://raw.githubusercontent.com/niksivas/nyc/main/data/vl/4-vis.json";
+       
+       vegaEmbed('#vis4', specVis4, {"actions": false}).then(function(result) {
+           // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+       }).catch(console.error);
+
+
+       var specVis5 = "https://raw.githubusercontent.com/niksivas/nyc/main/data/vl/5-vis.json";
+       
+       vegaEmbed('#vis5', specVis5, {"actions": false}).then(function(result) {
+           // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+       }).catch(console.error);
+
+       var specVis6 = "https://raw.githubusercontent.com/niksivas/nyc/main/data/vl/6-vis.json";
+       
+       vegaEmbed('#vis6', specVis6, {"actions": false}).then(function(result) {
+           // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+       }).catch(console.error);
+
+    </script>
+</body>
+</html>
