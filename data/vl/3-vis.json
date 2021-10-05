@@ -1,0 +1,83 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "width": "550",
+  "height": "260",
+  "title": {
+    "text": "Daily Temperature (°C) in New York City (NYC)",
+    "subtitle": "as of 2016",
+    "encode": {
+      "title": {"enter": {"fill": {"value": "black"}}},
+      "subtitle": {
+        "interactive": true,
+        "update": {"fontStyle": {"value": "italic"}, "fill": {"value": "grey"}}
+      }
+    },
+    "offset": 30
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/niksivas/nyc/main/data/mod/WTHER.json"
+  },
+  "mark": "rect",
+  "encoding": {
+    "color": {
+      "type": "quantitative",
+      "field": "temp_celcius",
+      "scale": {
+        "domain": [-20, 40],
+        "range": ["#3182bd", "lightyellow", "red"]
+      },
+      "legend": {"title": "Temperature"}
+    },
+    "x": {
+      "type": "ordinal",
+      "field": "date",
+      "timeUnit": "date",
+      "axis": {"labelAngle": 0, "format": "%e"},
+      "title": "Date"
+    },
+    "y": {
+      "type": "ordinal",
+      "field": "date",
+      "timeUnit": "month",
+      "title": "Month"
+    },
+    "tooltip": [
+      {"field": "date", "timeUnit": "date", "type": "ordinal", "title": "Date"},
+      {
+        "field": "date",
+        "timeUnit": "month",
+        "type": "ordinal",
+        "title": "Month"
+      },
+      {"field": "temp_celcius", "type": "quantitative", "title": "Temperature"}
+    ]
+  },
+  "selection": {
+    "Temperature": {
+      "type": "single",
+      "fields": ["temp_type"],
+      "bind": {
+        "input": "select",
+        "options": ["temp_min", "temp_max"],
+        "labels": ["Minimum Temperature", "Maximum Temperature"],
+        "name": "Select:"
+      }
+    }
+  },
+  "transform": [{"filter": {"selection": "Temperature"}}],
+  "config": {
+    "text": {"font": "Ideal Sans, Avenir Next, Helvetica"},
+    "title": {
+      "font": "Ideal Sans, Avenir Next, Helvetica",
+      "fontWeight": "bold",
+      "fontSize": 19
+    },
+    "axis": {
+      "labelFont": "Ideal Sans, Avenir Next, Helvetica",
+      "labelFontSize": 12,
+      "titleFontSize": 14
+    },
+    "style": {"cell": {"stroke": "transparent"}},
+    "legend": {"titleFontSize": 13, "labelFontSize": 11}
+  }
+}

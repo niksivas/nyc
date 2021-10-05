@@ -1,0 +1,90 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v2.json",
+  "width": 550,
+  "height": 400,
+  "title": {
+    "text": "Average Hate Crime in the U.S.A.",
+    "subtitle": "per 100,000 population (as of 2018)",
+    "encode": {
+      "title": {"enter": {"fill": {"value": "black"}}},
+      "subtitle": {
+        "interactive": true,
+        "update": {"fontStyle": {"value": "italic"}, "fill": {"value": "grey"}}
+      }
+    },
+    "offset": 20
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/niksivas/nyc/main/data/mod/SAFETY.json"
+  },
+  "layer": [
+    {
+      "mark": "rect",
+      "encoding": {
+        "x": {"field": "col", "type": "ordinal", "axis": false},
+        "y": {"field": "row", "type": "ordinal", "axis": false},
+        "color": {
+          "aggregate": "sum",
+          "field": "avg_hatecrimes_per_100k",
+          "type": "quantitative",
+          "scale": {
+            "nice": true,
+            "zero": true,
+            "range": [
+              "#ffffb2",
+              "#fed976",
+              "#feb24c",
+              "#fd8d3c",
+              "#f03b20",
+              "#bd0026"
+            ],
+            "domain": [0, 0.5, 1, 1.5, 2, 3, 4, 5, 11]
+          },
+          "legend": {"orient": "bottom", "title": "Average Hatecrimes"}
+        }
+      }
+    },
+    {
+      "transform": [
+        {
+          "calculate": "round(1-datum.avg_hatecrimes_per_100k)",
+          "as": "textcolor"
+        }
+      ],
+      "mark": "text",
+      "encoding": {
+        "x": {"field": "col", "type": "ordinal", "axis": false},
+        "y": {"field": "row", "type": "ordinal", "axis": false},
+        "color": {
+          "field": "textcolor",
+          "type": "quantitative",
+          "legend": false
+        },
+        "text": {"field": "state", "type": "nominal"},
+        "tooltip": [
+          {"field": "State Name", "type": "ordinal", "title": "State"},
+          {
+            "field": "avg_hatecrimes_per_100k",
+            "type": "quantitative",
+            "title": "Average hatecrimes (per 100 thousand of population)",
+            "format": ".2f"
+          }
+        ]
+      }
+    }
+  ],
+  "config": {
+    "text": {
+      "font": "Ideal Sans, Avenir Next, Helvetica",
+      "fontSize": 12,
+      "fontWeight": "bold"
+    },
+    "title": {
+      "font": "Ideal Sans, Avenir Next, Helvetica",
+      "fontWeight": "bold",
+      "fontSize": 19
+    },
+    "legend": {"titleFontSize": 13, "offset": 30, "labelFontSize": 11},
+    "style": {"cell": {"stroke": "transparent"}}
+  }
+}

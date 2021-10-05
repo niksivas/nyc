@@ -1,0 +1,191 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "width": 650,
+  "height": 350,
+  "title": {
+    "text": "Top 10 countries with visitors travelling to New York City (NYC)",
+    "subtitle": "as of 2018",
+    "encode": {
+      "title": {"enter": {"fill": {"value": "black"}}},
+      "subtitle": {
+        "interactive": true,
+        "update": {"fontStyle": {"value": "italic"}, "fill": {"value": "grey"}}
+      }
+    }
+  },
+  "layer": [
+    {
+      "data": {"sphere": true},
+      "mark": {"type": "geoshape", "fill": "#F3EBE9", "opacity": 0.4}
+    },
+    {
+      "data": {"graticule": true},
+      "mark": {
+        "type": "geoshape",
+        "stroke": "lightcoral",
+        "opacity": 0.15,
+        "strokeWidth": 0.7
+      }
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/niksivas/nyc/main/data/mod/WORLD-110M.json",
+        "format": {"type": "topojson", "feature": "countries"}
+      },
+      "projection": {"type": "equalEarth"},
+      "mark": {
+        "type": "geoshape",
+        "fill": "#d9dfdc",
+        "stroke": "gray",
+        "strokeWidth": 0.5,
+        "scale": 100
+      }
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/niksivas/nyc/main/data/mod/PASSENGERS-1.csv"
+      },
+      "transform": [
+        {"filter": {"field": "destination", "equal": "JFK"}},
+        {
+          "lookup": "origin",
+          "from": {
+            "data": {
+              "url": "https://raw.githubusercontent.com/niksivas/nyc/main/data/mod/APORT-2.csv"
+            },
+            "key": "iata",
+            "fields": ["latitude", "longitude"]
+          },
+          "as": ["origin_latitude", "origin_longitude"]
+        },
+        {
+          "lookup": "destination",
+          "from": {
+            "data": {
+              "url": "https://raw.githubusercontent.com/niksivas/nyc/main/data/mod/APORT-2.csv"
+            },
+            "key": "iata",
+            "fields": ["latitude", "longitude"]
+          },
+          "as": ["dest_latitude", "dest_longitude"]
+        }
+      ],
+      "projection": {"type": "equalEarth"},
+      "mark": "rule",
+      "encoding": {
+        "longitude": {"field": "origin_longitude", "type": "quantitative"},
+        "latitude": {"field": "origin_latitude", "type": "quantitative"},
+        "longitude2": {"field": "dest_longitude"},
+        "latitude2": {"field": "dest_latitude"},
+        "size": {"value": 1},
+        "color": {"value": "black"}
+      }
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/niksivas/nyc/main/data/mod/PASSENGERS-1.csv"
+      },
+      "transform": [
+        {"filter": {"field": "destination", "equal": "JFK"}},
+        {
+          "lookup": "destination",
+          "from": {
+            "data": {
+              "url": "https://raw.githubusercontent.com/niksivas/nyc/main/data/mod/APORT-2.csv"
+            },
+            "key": "iata",
+            "fields": ["latitude", "longitude"]
+          },
+          "as": ["dest_latitude", "dest_longitude"]
+        }
+      ],
+      "projection": {"type": "equalEarth"},
+      "layer": [
+        {
+          "mark": "circle",
+          "encoding": {
+            "longitude": {"field": "dest_longitude", "type": "quantitative"},
+            "latitude": {"field": "dest_latitude", "type": "quantitative"},
+            "size": {"value": 450},
+            "color": {"value": " #833C2D"},
+            "tooltip": [
+              {
+                "field": "destination",
+                "type": "nominal",
+                "title": "New York City Airport"
+              }
+            ]
+          }
+        },
+        {
+          "mark": "circle",
+          "encoding": {
+            "longitude": {"field": "dest_longitude", "type": "quantitative"},
+            "latitude": {"field": "dest_latitude", "type": "quantitative"},
+            "size": {"value": 150},
+            "color": {"value": "#FCD411"},
+            "tooltip": [
+              {
+                "field": "destination",
+                "type": "nominal",
+                "title": "New York City Airport"
+              }
+            ]
+          }
+        },
+        {
+          "mark": {"type": "text", "xOffset": -145, "yOffset": -97},
+          "encoding": {"text": {"field": "destination"}}
+        }
+      ]
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/niksivas/nyc/main/data/mod/APORT-2.csv"
+      },
+      "projection": {"type": "equalEarth"},
+      "layer": [
+        {
+          "mark": "circle",
+          "encoding": {
+            "longitude": {"field": "longitude", "type": "quantitative"},
+            "latitude": {"field": "latitude", "type": "quantitative"},
+            "color": {
+              "field": "count",
+              "type": "quantitative",
+              "legend": {
+                "orient": "bottom",
+                "title": "Visitors (in thousands)",
+                "offset": 5
+              },
+              "scale": {"range": ["#cc4778", "#b12a90", "#3D4680", "#30134A"]}
+            },
+            "size": {
+              "type": "quantitative",
+              "field": "count",
+              "scale": {
+                "zero": true,
+                "range": [0, 200, 400, 600, 800, 1000, 1200]
+              }
+            },
+            "tooltip": [
+              {"field": "city", "type": "ordinal", "title": "City"},
+              {"field": "country", "type": "ordinal", "title": "Country"},
+              {"field": "count", "title": "Number of Visitors (in thousands)"}
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "config": {
+    "text": {"font": "Ideal Sans, Avenir Next, Helvetica"},
+    "title": {
+      "font": "Ideal Sans, Avenir Next, Helvetica",
+      "fontWeight": "bold",
+      "fontSize": 19
+    },
+    "legend": {"titleFontSize": 13, "strokeWidth": 1},
+    "style": {"cell": {"stroke": "transparent"}}
+  }
+}

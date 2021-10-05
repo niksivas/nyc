@@ -1,0 +1,114 @@
+{
+  "$schema": "https://vega.github.io/schema/vega/v5.json",
+  "description": "An example of a space-fulling radial layout for hierarchical data.",
+  "width": 450,
+  "height": 450,
+  "padding": 10,
+  "title": {
+    "text": "Farmers' Market available in New York City (NYC)",
+    "subtitle": "as of 2020",
+    "encode": {
+      "title": {"enter": {"fill": {"value": "black"}}},
+      "subtitle": {
+        "interactive": true,
+        "update": {"fontStyle": {"value": "italic"}, "fill": {"value": "grey"}}
+      }
+    },
+    "offset": 20
+  },
+  "data": [
+    {
+      "name": "tree",
+      "url": "https://raw.githubusercontent.com/niksivas/nyc/main/data/mod/FM4.json",
+      "transform": [
+        {"type": "stratify", "key": "id", "parentKey": "parent"},
+        {
+          "type": "partition",
+          "field": "id",
+          "sort": {"field": "value"},
+          "size": [{"signal": "2 * PI"}, {"signal": "width / 2"}],
+          "as": ["a0", "r0", "a1", "r1", "depth", "children"]
+        }
+      ]
+    }
+  ],
+  "scales": [
+    {
+      "name": "color",
+      "type": "ordinal",
+      "domain": {"data": "tree", "field": "depth"},
+      "range": {"scheme": "darkgreen"}
+    },
+    {
+      "name": "color1",
+      "type": "ordinal",
+      "domain": {"data": "tree", "field": "type"},
+      "range": {"scheme": "darkgreen"}
+    }
+  ],
+  "marks": [
+    {
+      "type": "arc",
+      "from": {"data": "tree"},
+      "encode": {
+        "enter": {
+          "x": {"signal": "width / 2"},
+          "y": {"signal": "height / 2"},
+          "fill": {"scale": "color", "field": "depth"},
+          "tooltip": {
+            "signal": "datum.type + ' , ' + datum.name + ':' + (datum.total) + ' markets available'"
+          }
+        },
+        "update": {
+          "startAngle": {"field": "a0"},
+          "endAngle": {"field": "a1"},
+          "innerRadius": {"field": "r0"},
+          "outerRadius": {"field": "r1"},
+          "stroke": {"value": "white"},
+          "strokeWidth": {"value": 1.5},
+          "zindex": {"value": 0}
+        },
+        "hover": {
+          "stroke": {"value": "black"},
+          "strokeWidth": {"value": 4},
+          "zindex": {"value": 1}
+        }
+      }
+    }
+  ],
+  "legends": [
+    {
+      "title": "Legend",
+      "fill": "color1",
+      "encode": {
+        "title": {"update": {"fontSize": {"value": 13}}},
+        "labels": {
+          "interactive": true,
+          "update": {"fontSize": {"value": 11}, "fill": {"value": "black"}}
+        },
+        "symbols": {
+          "update": {
+            "stroke": {"value": "transparent"},
+            "shape": {"value": "diamond"}
+          }
+        },
+        "legend": {
+          "update": {
+            "stroke": {"value": ""},
+            "strokeWidth": {"value": 1.5},
+            "offset": 10
+          }
+        }
+      }
+    }
+  ],
+  "config": {
+    "text": {"font": "Ideal Sans, Avenir Next, Helvetica"},
+    "title": {
+      "font": "Ideal Sans, Avenir Next, Helvetica",
+      "fontWeight": "bold",
+      "fontSize": 19,
+      "limit": -1
+    }
+  }
+}

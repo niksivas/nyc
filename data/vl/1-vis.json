@@ -1,0 +1,132 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "width": 470,
+  "height": 300,
+  "title": {
+    "text": "Comparison of the Tourism GDP of the Top 5 U.S.A. states ",
+    "subtitle": "as of 2018",
+    "encode": {
+      "title": {"enter": {"fill": {"value": "black"}}},
+      "subtitle": {
+        "interactive": true,
+        "update": {"fontStyle": {"value": "italic"}, "fill": {"value": "grey"}}
+      }
+    },
+    "offset": 20
+  },
+  "layer": [
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/niksivas/nyc/main/data/mod/GDP.json"
+      },
+      "transform": [
+        {
+          "window": [{"op": "rank", "as": "rank"}],
+          "sort": [
+            {
+              "field": "Share of national tourism GDP (%)",
+              "order": "descending"
+            }
+          ]
+        },
+        {"filter": "datum.rank <= 5"}
+      ],
+      "layer": [
+        {
+          "mark": {
+            "type": "point",
+            "filled": true,
+            "size": 1300,
+            "opacity": 100
+          },
+          "encoding": {
+            "x": {
+              "field": "Share of national tourism GDP (%)",
+              "type": "quantitative",
+              "axis": {"labelFontSize": 12, "offset": 1}
+            },
+            "y": {
+              "field": "State",
+              "type": "nominal",
+              "sort": "-x",
+              "axis": {"labelFontSize": 12, "offset": 1}
+            },
+            "color": {
+              "condition": {
+                "test": "datum['Share of national tourism GDP (%)'] ==8.7",
+                "value": "#3D4680"
+              },
+              "value": "#6996AD"
+            },
+            "tooltip": [
+              {"field": "State"},
+              {
+                "field": "Share of national tourism GDP (%)",
+                "type": "quantitative",
+                "title": "Tourism GDP share (%)"
+              }
+            ]
+          }
+        },
+        {
+          "mark": {"type": "bar", "size": 10},
+          "encoding": {
+            "x": {
+              "field": "Share of national tourism GDP (%)",
+              "type": "quantitative",
+              "axis": {"grid": false}
+            },
+            "y": {"field": "State", "type": "nominal", "sort": "-x"},
+            "color": {
+              "condition": {
+                "test": "datum['Share of national tourism GDP (%)'] ==8.7",
+                "value": "#3D4680"
+              },
+              "value": "#6996AD"
+            },
+            "tooltip": [
+              {"field": "State"},
+              {
+                "field": "Share of national tourism GDP (%)",
+                "type": "quantitative",
+                "title": "Tourism GDP share (%)"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "data": {"values": [{}]},
+      "layer": [
+        {
+          "mark": {
+            "type": "text",
+            "align": "right",
+            "baseline": "bottom",
+            "dx": 3,
+            "dy": -60,
+            "x": "width",
+            "text": [
+              "In 2018, nearly 253 million",
+              " visitors traveled to New York ",
+              "and generated an economic ",
+              "  impact of $114.8 billion "
+            ],
+            "fontSize": 13
+          }
+        }
+      ]
+    }
+  ],
+  "config": {
+    "text": {"font": "Ideal Sans, Avenir Next, Helvetica"},
+    "title": {
+      "font": "Ideal Sans, Avenir Next, Helvetica",
+      "fontWeight": "bold",
+      "fontSize": 18
+    },
+    "axis": {"titleFontSize": 14},
+    "style": {"cell": {"stroke": "transparent"}}
+  }
+}
