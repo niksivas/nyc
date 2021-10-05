@@ -1,0 +1,5858 @@
+[
+  {
+    "date": "2016-01-01",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 42,
+    "temp_celcius": 5.6,
+    "temp_avg": 38
+  },
+  {
+    "date": "2016-01-01",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 34,
+    "temp_celcius": 1.1,
+    "temp_avg": 38
+  },
+  {
+    "date": "2016-01-02",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 40,
+    "temp_celcius": 4.4,
+    "temp_avg": 36
+  },
+  {
+    "date": "2016-01-02",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 32,
+    "temp_celcius": 0,
+    "temp_avg": 36
+  },
+  {
+    "date": "2016-01-03",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 45,
+    "temp_celcius": 7.2,
+    "temp_avg": 40
+  },
+  {
+    "date": "2016-01-03",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 35,
+    "temp_celcius": 1.7,
+    "temp_avg": 40
+  },
+  {
+    "date": "2016-01-04",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 36,
+    "temp_celcius": 2.2,
+    "temp_avg": 25
+  },
+  {
+    "date": "2016-01-04",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 14,
+    "temp_celcius": -10,
+    "temp_avg": 25
+  },
+  {
+    "date": "2016-01-05",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 29,
+    "temp_celcius": -1.7,
+    "temp_avg": 20
+  },
+  {
+    "date": "2016-01-05",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 11,
+    "temp_celcius": -11.7,
+    "temp_avg": 20
+  },
+  {
+    "date": "2016-01-06",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 41,
+    "temp_celcius": 5,
+    "temp_avg": 33
+  },
+  {
+    "date": "2016-01-06",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 25,
+    "temp_celcius": -3.9,
+    "temp_avg": 33
+  },
+  {
+    "date": "2016-01-07",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 46,
+    "temp_celcius": 7.8,
+    "temp_avg": 38.5
+  },
+  {
+    "date": "2016-01-07",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 31,
+    "temp_celcius": -0.6,
+    "temp_avg": 38.5
+  },
+  {
+    "date": "2016-01-08",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 46,
+    "temp_celcius": 7.8,
+    "temp_avg": 38.5
+  },
+  {
+    "date": "2016-01-08",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 31,
+    "temp_celcius": -0.6,
+    "temp_avg": 38.5
+  },
+  {
+    "date": "2016-01-09",
+    "precipitation": "T",
+    "temp_type": "temp_max",
+    "temp": 47,
+    "temp_celcius": 8.3,
+    "temp_avg": 43.5
+  },
+  {
+    "date": "2016-01-09",
+    "precipitation": "T",
+    "temp_type": "temp_min",
+    "temp": 40,
+    "temp_celcius": 4.4,
+    "temp_avg": 43.5
+  },
+  {
+    "date": "2016-01-10",
+    "precipitation": 1.8,
+    "temp_type": "temp_max",
+    "temp": 59,
+    "temp_celcius": 15,
+    "temp_avg": 49.5
+  },
+  {
+    "date": "2016-01-10",
+    "precipitation": 1.8,
+    "temp_type": "temp_min",
+    "temp": 40,
+    "temp_celcius": 4.4,
+    "temp_avg": 49.5
+  },
+  {
+    "date": "2016-01-11",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 40,
+    "temp_celcius": 4.4,
+    "temp_avg": 33
+  },
+  {
+    "date": "2016-01-11",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 26,
+    "temp_celcius": -3.3,
+    "temp_avg": 33
+  },
+  {
+    "date": "2016-01-12",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 44,
+    "temp_celcius": 6.7,
+    "temp_avg": 34.5
+  },
+  {
+    "date": "2016-01-12",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 25,
+    "temp_celcius": -3.9,
+    "temp_avg": 34.5
+  },
+  {
+    "date": "2016-01-13",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 30,
+    "temp_celcius": -1.1,
+    "temp_avg": 26
+  },
+  {
+    "date": "2016-01-13",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 22,
+    "temp_celcius": -5.6,
+    "temp_avg": 26
+  },
+  {
+    "date": "2016-01-14",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 38,
+    "temp_celcius": 3.3,
+    "temp_avg": 30
+  },
+  {
+    "date": "2016-01-14",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 22,
+    "temp_celcius": -5.6,
+    "temp_avg": 30
+  },
+  {
+    "date": "2016-01-15",
+    "precipitation": "T",
+    "temp_type": "temp_max",
+    "temp": 51,
+    "temp_celcius": 10.6,
+    "temp_avg": 42.5
+  },
+  {
+    "date": "2016-01-15",
+    "precipitation": "T",
+    "temp_type": "temp_min",
+    "temp": 34,
+    "temp_celcius": 1.1,
+    "temp_avg": 42.5
+  },
+  {
+    "date": "2016-01-16",
+    "precipitation": 0.24,
+    "temp_type": "temp_max",
+    "temp": 52,
+    "temp_celcius": 11.1,
+    "temp_avg": 47
+  },
+  {
+    "date": "2016-01-16",
+    "precipitation": 0.24,
+    "temp_type": "temp_min",
+    "temp": 42,
+    "temp_celcius": 5.6,
+    "temp_avg": 47
+  },
+  {
+    "date": "2016-01-17",
+    "precipitation": 0.05,
+    "temp_type": "temp_max",
+    "temp": 42,
+    "temp_celcius": 5.6,
+    "temp_avg": 36
+  },
+  {
+    "date": "2016-01-17",
+    "precipitation": 0.05,
+    "temp_type": "temp_min",
+    "temp": 30,
+    "temp_celcius": -1.1,
+    "temp_avg": 36
+  },
+  {
+    "date": "2016-01-18",
+    "precipitation": "T",
+    "temp_type": "temp_max",
+    "temp": 31,
+    "temp_celcius": -0.6,
+    "temp_avg": 24.5
+  },
+  {
+    "date": "2016-01-18",
+    "precipitation": "T",
+    "temp_type": "temp_min",
+    "temp": 18,
+    "temp_celcius": -7.8,
+    "temp_avg": 24.5
+  },
+  {
+    "date": "2016-01-19",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 28,
+    "temp_celcius": -2.2,
+    "temp_avg": 22
+  },
+  {
+    "date": "2016-01-19",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 16,
+    "temp_celcius": -8.9,
+    "temp_avg": 22
+  },
+  {
+    "date": "2016-01-20",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 37,
+    "temp_celcius": 2.8,
+    "temp_avg": 32
+  },
+  {
+    "date": "2016-01-20",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 27,
+    "temp_celcius": -2.8,
+    "temp_avg": 32
+  },
+  {
+    "date": "2016-01-21",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 36,
+    "temp_celcius": 2.2,
+    "temp_avg": 31
+  },
+  {
+    "date": "2016-01-21",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 26,
+    "temp_celcius": -3.3,
+    "temp_avg": 31
+  },
+  {
+    "date": "2016-01-22",
+    "precipitation": 0.01,
+    "temp_type": "temp_max",
+    "temp": 30,
+    "temp_celcius": -1.1,
+    "temp_avg": 25.5
+  },
+  {
+    "date": "2016-01-22",
+    "precipitation": 0.01,
+    "temp_type": "temp_min",
+    "temp": 21,
+    "temp_celcius": -6.1,
+    "temp_avg": 25.5
+  },
+  {
+    "date": "2016-01-23",
+    "precipitation": 2.31,
+    "temp_type": "temp_max",
+    "temp": 27,
+    "temp_celcius": -2.8,
+    "temp_avg": 25.5
+  },
+  {
+    "date": "2016-01-23",
+    "precipitation": 2.31,
+    "temp_type": "temp_min",
+    "temp": 24,
+    "temp_celcius": -4.4,
+    "temp_avg": 25.5
+  },
+  {
+    "date": "2016-01-24",
+    "precipitation": "T",
+    "temp_type": "temp_max",
+    "temp": 35,
+    "temp_celcius": 1.7,
+    "temp_avg": 27.5
+  },
+  {
+    "date": "2016-01-24",
+    "precipitation": "T",
+    "temp_type": "temp_min",
+    "temp": 20,
+    "temp_celcius": -6.7,
+    "temp_avg": 27.5
+  },
+  {
+    "date": "2016-01-25",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 39,
+    "temp_celcius": 3.9,
+    "temp_avg": 33.5
+  },
+  {
+    "date": "2016-01-25",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 28,
+    "temp_celcius": -2.2,
+    "temp_avg": 33.5
+  },
+  {
+    "date": "2016-01-26",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 48,
+    "temp_celcius": 8.9,
+    "temp_avg": 43
+  },
+  {
+    "date": "2016-01-26",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 38,
+    "temp_celcius": 3.3,
+    "temp_avg": 43
+  },
+  {
+    "date": "2016-01-27",
+    "precipitation": "T",
+    "temp_type": "temp_max",
+    "temp": 47,
+    "temp_celcius": 8.3,
+    "temp_avg": 40.5
+  },
+  {
+    "date": "2016-01-27",
+    "precipitation": "T",
+    "temp_type": "temp_min",
+    "temp": 34,
+    "temp_celcius": 1.1,
+    "temp_avg": 40.5
+  },
+  {
+    "date": "2016-01-28",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 42,
+    "temp_celcius": 5.6,
+    "temp_avg": 37
+  },
+  {
+    "date": "2016-01-28",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 32,
+    "temp_celcius": 0,
+    "temp_avg": 37
+  },
+  {
+    "date": "2016-01-29",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 41,
+    "temp_celcius": 5,
+    "temp_avg": 35.5
+  },
+  {
+    "date": "2016-01-29",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 30,
+    "temp_celcius": -1.1,
+    "temp_avg": 35.5
+  },
+  {
+    "date": "2016-01-30",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 39,
+    "temp_celcius": 3.9,
+    "temp_avg": 33.5
+  },
+  {
+    "date": "2016-01-30",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 28,
+    "temp_celcius": -2.2,
+    "temp_avg": 33.5
+  },
+  {
+    "date": "2016-01-31",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 56,
+    "temp_celcius": 13.3,
+    "temp_avg": 46
+  },
+  {
+    "date": "2016-01-31",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 36,
+    "temp_celcius": 2.2,
+    "temp_avg": 46
+  },
+  {
+    "date": "2016-02-01",
+    "precipitation": 0.01,
+    "temp_type": "temp_max",
+    "temp": 59,
+    "temp_celcius": 15,
+    "temp_avg": 51.5
+  },
+  {
+    "date": "2016-02-01",
+    "precipitation": 0.01,
+    "temp_type": "temp_min",
+    "temp": 44,
+    "temp_celcius": 6.7,
+    "temp_avg": 51.5
+  },
+  {
+    "date": "2016-02-02",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 50,
+    "temp_celcius": 10,
+    "temp_avg": 44
+  },
+  {
+    "date": "2016-02-02",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 38,
+    "temp_celcius": 3.3,
+    "temp_avg": 44
+  },
+  {
+    "date": "2016-02-03",
+    "precipitation": 0.73,
+    "temp_type": "temp_max",
+    "temp": 59,
+    "temp_celcius": 15,
+    "temp_avg": 50.5
+  },
+  {
+    "date": "2016-02-03",
+    "precipitation": 0.73,
+    "temp_type": "temp_min",
+    "temp": 42,
+    "temp_celcius": 5.6,
+    "temp_avg": 50.5
+  },
+  {
+    "date": "2016-02-04",
+    "precipitation": "T",
+    "temp_type": "temp_max",
+    "temp": 59,
+    "temp_celcius": 15,
+    "temp_avg": 51.5
+  },
+  {
+    "date": "2016-02-04",
+    "precipitation": "T",
+    "temp_type": "temp_min",
+    "temp": 44,
+    "temp_celcius": 6.7,
+    "temp_avg": 51.5
+  },
+  {
+    "date": "2016-02-05",
+    "precipitation": 0.53,
+    "temp_type": "temp_max",
+    "temp": 44,
+    "temp_celcius": 6.7,
+    "temp_avg": 37.5
+  },
+  {
+    "date": "2016-02-05",
+    "precipitation": 0.53,
+    "temp_type": "temp_min",
+    "temp": 31,
+    "temp_celcius": -0.6,
+    "temp_avg": 37.5
+  },
+  {
+    "date": "2016-02-06",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 40,
+    "temp_celcius": 4.4,
+    "temp_avg": 35
+  },
+  {
+    "date": "2016-02-06",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 30,
+    "temp_celcius": -1.1,
+    "temp_avg": 35
+  },
+  {
+    "date": "2016-02-07",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 47,
+    "temp_celcius": 8.3,
+    "temp_avg": 40
+  },
+  {
+    "date": "2016-02-07",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 33,
+    "temp_celcius": 0.6,
+    "temp_avg": 40
+  },
+  {
+    "date": "2016-02-08",
+    "precipitation": 0.05,
+    "temp_type": "temp_max",
+    "temp": 39,
+    "temp_celcius": 3.9,
+    "temp_avg": 33.5
+  },
+  {
+    "date": "2016-02-08",
+    "precipitation": 0.05,
+    "temp_type": "temp_min",
+    "temp": 28,
+    "temp_celcius": -2.2,
+    "temp_avg": 33.5
+  },
+  {
+    "date": "2016-02-09",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 36,
+    "temp_celcius": 2.2,
+    "temp_avg": 31.5
+  },
+  {
+    "date": "2016-02-09",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 27,
+    "temp_celcius": -2.8,
+    "temp_avg": 31.5
+  },
+  {
+    "date": "2016-02-10",
+    "precipitation": 0.01,
+    "temp_type": "temp_max",
+    "temp": 39,
+    "temp_celcius": 3.9,
+    "temp_avg": 35
+  },
+  {
+    "date": "2016-02-10",
+    "precipitation": 0.01,
+    "temp_type": "temp_min",
+    "temp": 31,
+    "temp_celcius": -0.6,
+    "temp_avg": 35
+  },
+  {
+    "date": "2016-02-11",
+    "precipitation": "T",
+    "temp_type": "temp_max",
+    "temp": 31,
+    "temp_celcius": -0.6,
+    "temp_avg": 24.5
+  },
+  {
+    "date": "2016-02-11",
+    "precipitation": "T",
+    "temp_type": "temp_min",
+    "temp": 18,
+    "temp_celcius": -7.8,
+    "temp_avg": 24.5
+  },
+  {
+    "date": "2016-02-12",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 27,
+    "temp_celcius": -2.8,
+    "temp_avg": 21
+  },
+  {
+    "date": "2016-02-12",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 15,
+    "temp_celcius": -9.4,
+    "temp_avg": 21
+  },
+  {
+    "date": "2016-02-13",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 22,
+    "temp_celcius": -5.6,
+    "temp_avg": 14
+  },
+  {
+    "date": "2016-02-13",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 6,
+    "temp_celcius": -14.4,
+    "temp_avg": 14
+  },
+  {
+    "date": "2016-02-14",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 15,
+    "temp_celcius": -9.4,
+    "temp_avg": 7
+  },
+  {
+    "date": "2016-02-14",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": -1,
+    "temp_celcius": -18.3,
+    "temp_avg": 7
+  },
+  {
+    "date": "2016-02-15",
+    "precipitation": 0.44,
+    "temp_type": "temp_max",
+    "temp": 35,
+    "temp_celcius": 1.7,
+    "temp_avg": 24
+  },
+  {
+    "date": "2016-02-15",
+    "precipitation": 0.44,
+    "temp_type": "temp_min",
+    "temp": 13,
+    "temp_celcius": -10.6,
+    "temp_avg": 24
+  },
+  {
+    "date": "2016-02-16",
+    "precipitation": 1.01,
+    "temp_type": "temp_max",
+    "temp": 54,
+    "temp_celcius": 12.2,
+    "temp_avg": 44.5
+  },
+  {
+    "date": "2016-02-16",
+    "precipitation": 1.01,
+    "temp_type": "temp_min",
+    "temp": 35,
+    "temp_celcius": 1.7,
+    "temp_avg": 44.5
+  },
+  {
+    "date": "2016-02-17",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 39,
+    "temp_celcius": 3.9,
+    "temp_avg": 37
+  },
+  {
+    "date": "2016-02-17",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 35,
+    "temp_celcius": 1.7,
+    "temp_avg": 37
+  },
+  {
+    "date": "2016-02-18",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 36,
+    "temp_celcius": 2.2,
+    "temp_avg": 31.5
+  },
+  {
+    "date": "2016-02-18",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 27,
+    "temp_celcius": -2.8,
+    "temp_avg": 31.5
+  },
+  {
+    "date": "2016-02-19",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 39,
+    "temp_celcius": 3.9,
+    "temp_avg": 31.5
+  },
+  {
+    "date": "2016-02-19",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 24,
+    "temp_celcius": -4.4,
+    "temp_avg": 31.5
+  },
+  {
+    "date": "2016-02-20",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 61,
+    "temp_celcius": 16.1,
+    "temp_avg": 50
+  },
+  {
+    "date": "2016-02-20",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 39,
+    "temp_celcius": 3.9,
+    "temp_avg": 50
+  },
+  {
+    "date": "2016-02-21",
+    "precipitation": 0.03,
+    "temp_type": "temp_max",
+    "temp": 55,
+    "temp_celcius": 12.8,
+    "temp_avg": 49.5
+  },
+  {
+    "date": "2016-02-21",
+    "precipitation": 0.03,
+    "temp_type": "temp_min",
+    "temp": 44,
+    "temp_celcius": 6.7,
+    "temp_avg": 49.5
+  },
+  {
+    "date": "2016-02-22",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 52,
+    "temp_celcius": 11.1,
+    "temp_avg": 45
+  },
+  {
+    "date": "2016-02-22",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 38,
+    "temp_celcius": 3.3,
+    "temp_avg": 45
+  },
+  {
+    "date": "2016-02-23",
+    "precipitation": 0.3,
+    "temp_type": "temp_max",
+    "temp": 40,
+    "temp_celcius": 4.4,
+    "temp_avg": 37.5
+  },
+  {
+    "date": "2016-02-23",
+    "precipitation": 0.3,
+    "temp_type": "temp_min",
+    "temp": 35,
+    "temp_celcius": 1.7,
+    "temp_avg": 37.5
+  },
+  {
+    "date": "2016-02-24",
+    "precipitation": 1.22,
+    "temp_type": "temp_max",
+    "temp": 60,
+    "temp_celcius": 15.6,
+    "temp_avg": 48
+  },
+  {
+    "date": "2016-02-24",
+    "precipitation": 1.22,
+    "temp_type": "temp_min",
+    "temp": 36,
+    "temp_celcius": 2.2,
+    "temp_avg": 48
+  },
+  {
+    "date": "2016-02-25",
+    "precipitation": 0.02,
+    "temp_type": "temp_max",
+    "temp": 61,
+    "temp_celcius": 16.1,
+    "temp_avg": 49
+  },
+  {
+    "date": "2016-02-25",
+    "precipitation": 0.02,
+    "temp_type": "temp_min",
+    "temp": 37,
+    "temp_celcius": 2.8,
+    "temp_avg": 49
+  },
+  {
+    "date": "2016-02-26",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 39,
+    "temp_celcius": 3.9,
+    "temp_avg": 33
+  },
+  {
+    "date": "2016-02-26",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 27,
+    "temp_celcius": -2.8,
+    "temp_avg": 33
+  },
+  {
+    "date": "2016-02-27",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 41,
+    "temp_celcius": 5,
+    "temp_avg": 33.5
+  },
+  {
+    "date": "2016-02-27",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 26,
+    "temp_celcius": -3.3,
+    "temp_avg": 33.5
+  },
+  {
+    "date": "2016-02-28",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 60,
+    "temp_celcius": 15.6,
+    "temp_avg": 49
+  },
+  {
+    "date": "2016-02-28",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 38,
+    "temp_celcius": 3.3,
+    "temp_avg": 49
+  },
+  {
+    "date": "2016-02-29",
+    "precipitation": 0.05,
+    "temp_type": "temp_max",
+    "temp": 61,
+    "temp_celcius": 16.1,
+    "temp_avg": 54
+  },
+  {
+    "date": "2016-02-29",
+    "precipitation": 0.05,
+    "temp_type": "temp_min",
+    "temp": 47,
+    "temp_celcius": 8.3,
+    "temp_avg": 54
+  },
+  {
+    "date": "2016-03-01",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 52,
+    "temp_celcius": 11.1,
+    "temp_avg": 45.5
+  },
+  {
+    "date": "2016-03-01",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 39,
+    "temp_celcius": 3.9,
+    "temp_avg": 45.5
+  },
+  {
+    "date": "2016-03-02",
+    "precipitation": 0.14,
+    "temp_type": "temp_max",
+    "temp": 55,
+    "temp_celcius": 12.8,
+    "temp_avg": 42
+  },
+  {
+    "date": "2016-03-02",
+    "precipitation": 0.14,
+    "temp_type": "temp_min",
+    "temp": 29,
+    "temp_celcius": -1.7,
+    "temp_avg": 42
+  },
+  {
+    "date": "2016-03-03",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 36,
+    "temp_celcius": 2.2,
+    "temp_avg": 31
+  },
+  {
+    "date": "2016-03-03",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 26,
+    "temp_celcius": -3.3,
+    "temp_avg": 31
+  },
+  {
+    "date": "2016-03-04",
+    "precipitation": 0.11,
+    "temp_type": "temp_max",
+    "temp": 39,
+    "temp_celcius": 3.9,
+    "temp_avg": 34.5
+  },
+  {
+    "date": "2016-03-04",
+    "precipitation": 0.11,
+    "temp_type": "temp_min",
+    "temp": 30,
+    "temp_celcius": -1.1,
+    "temp_avg": 34.5
+  },
+  {
+    "date": "2016-03-05",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 41,
+    "temp_celcius": 5,
+    "temp_avg": 34.5
+  },
+  {
+    "date": "2016-03-05",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 28,
+    "temp_celcius": -2.2,
+    "temp_avg": 34.5
+  },
+  {
+    "date": "2016-03-06",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 44,
+    "temp_celcius": 6.7,
+    "temp_avg": 38
+  },
+  {
+    "date": "2016-03-06",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 32,
+    "temp_celcius": 0,
+    "temp_avg": 38
+  },
+  {
+    "date": "2016-03-07",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 60,
+    "temp_celcius": 15.6,
+    "temp_avg": 48
+  },
+  {
+    "date": "2016-03-07",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 36,
+    "temp_celcius": 2.2,
+    "temp_avg": 48
+  },
+  {
+    "date": "2016-03-08",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 67,
+    "temp_celcius": 19.4,
+    "temp_avg": 57
+  },
+  {
+    "date": "2016-03-08",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 47,
+    "temp_celcius": 8.3,
+    "temp_avg": 57
+  },
+  {
+    "date": "2016-03-09",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 77,
+    "temp_celcius": 25,
+    "temp_avg": 60.5
+  },
+  {
+    "date": "2016-03-09",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 44,
+    "temp_celcius": 6.7,
+    "temp_avg": 60.5
+  },
+  {
+    "date": "2016-03-10",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 79,
+    "temp_celcius": 26.1,
+    "temp_avg": 71
+  },
+  {
+    "date": "2016-03-10",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 63,
+    "temp_celcius": 17.2,
+    "temp_avg": 71
+  },
+  {
+    "date": "2016-03-11",
+    "precipitation": 0.06,
+    "temp_type": "temp_max",
+    "temp": 68,
+    "temp_celcius": 20,
+    "temp_avg": 58
+  },
+  {
+    "date": "2016-03-11",
+    "precipitation": 0.06,
+    "temp_type": "temp_min",
+    "temp": 48,
+    "temp_celcius": 8.9,
+    "temp_avg": 58
+  },
+  {
+    "date": "2016-03-12",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 59,
+    "temp_celcius": 15,
+    "temp_avg": 49.5
+  },
+  {
+    "date": "2016-03-12",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 40,
+    "temp_celcius": 4.4,
+    "temp_avg": 49.5
+  },
+  {
+    "date": "2016-03-13",
+    "precipitation": "T",
+    "temp_type": "temp_max",
+    "temp": 62,
+    "temp_celcius": 16.7,
+    "temp_avg": 56
+  },
+  {
+    "date": "2016-03-13",
+    "precipitation": "T",
+    "temp_type": "temp_min",
+    "temp": 50,
+    "temp_celcius": 10,
+    "temp_avg": 56
+  },
+  {
+    "date": "2016-03-14",
+    "precipitation": 0.29,
+    "temp_type": "temp_max",
+    "temp": 51,
+    "temp_celcius": 10.6,
+    "temp_avg": 45.5
+  },
+  {
+    "date": "2016-03-14",
+    "precipitation": 0.29,
+    "temp_type": "temp_min",
+    "temp": 40,
+    "temp_celcius": 4.4,
+    "temp_avg": 45.5
+  },
+  {
+    "date": "2016-03-15",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 57,
+    "temp_celcius": 13.9,
+    "temp_avg": 50.5
+  },
+  {
+    "date": "2016-03-15",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 44,
+    "temp_celcius": 6.7,
+    "temp_avg": 50.5
+  },
+  {
+    "date": "2016-03-16",
+    "precipitation": 0.02,
+    "temp_type": "temp_max",
+    "temp": 65,
+    "temp_celcius": 18.3,
+    "temp_avg": 56.5
+  },
+  {
+    "date": "2016-03-16",
+    "precipitation": 0.02,
+    "temp_type": "temp_min",
+    "temp": 48,
+    "temp_celcius": 8.9,
+    "temp_avg": 56.5
+  },
+  {
+    "date": "2016-03-17",
+    "precipitation": "T",
+    "temp_type": "temp_max",
+    "temp": 63,
+    "temp_celcius": 17.2,
+    "temp_avg": 54
+  },
+  {
+    "date": "2016-03-17",
+    "precipitation": "T",
+    "temp_type": "temp_min",
+    "temp": 45,
+    "temp_celcius": 7.2,
+    "temp_avg": 54
+  },
+  {
+    "date": "2016-03-18",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 57,
+    "temp_celcius": 13.9,
+    "temp_avg": 49.5
+  },
+  {
+    "date": "2016-03-18",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 42,
+    "temp_celcius": 5.6,
+    "temp_avg": 49.5
+  },
+  {
+    "date": "2016-03-19",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 46,
+    "temp_celcius": 7.8,
+    "temp_avg": 41
+  },
+  {
+    "date": "2016-03-19",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 36,
+    "temp_celcius": 2.2,
+    "temp_avg": 41
+  },
+  {
+    "date": "2016-03-20",
+    "precipitation": 0.07,
+    "temp_type": "temp_max",
+    "temp": 43,
+    "temp_celcius": 6.1,
+    "temp_avg": 37.5
+  },
+  {
+    "date": "2016-03-20",
+    "precipitation": 0.07,
+    "temp_type": "temp_min",
+    "temp": 32,
+    "temp_celcius": 0,
+    "temp_avg": 37.5
+  },
+  {
+    "date": "2016-03-21",
+    "precipitation": 0.06,
+    "temp_type": "temp_max",
+    "temp": 50,
+    "temp_celcius": 10,
+    "temp_avg": 41
+  },
+  {
+    "date": "2016-03-21",
+    "precipitation": 0.06,
+    "temp_type": "temp_min",
+    "temp": 32,
+    "temp_celcius": 0,
+    "temp_avg": 41
+  },
+  {
+    "date": "2016-03-22",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 56,
+    "temp_celcius": 13.3,
+    "temp_avg": 45.5
+  },
+  {
+    "date": "2016-03-22",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 35,
+    "temp_celcius": 1.7,
+    "temp_avg": 45.5
+  },
+  {
+    "date": "2016-03-23",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 71,
+    "temp_celcius": 21.7,
+    "temp_avg": 59.5
+  },
+  {
+    "date": "2016-03-23",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 48,
+    "temp_celcius": 8.9,
+    "temp_avg": 59.5
+  },
+  {
+    "date": "2016-03-24",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 55,
+    "temp_celcius": 12.8,
+    "temp_avg": 49.5
+  },
+  {
+    "date": "2016-03-24",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 44,
+    "temp_celcius": 6.7,
+    "temp_avg": 49.5
+  },
+  {
+    "date": "2016-03-25",
+    "precipitation": 0.04,
+    "temp_type": "temp_max",
+    "temp": 72,
+    "temp_celcius": 22.2,
+    "temp_avg": 58
+  },
+  {
+    "date": "2016-03-25",
+    "precipitation": 0.04,
+    "temp_type": "temp_min",
+    "temp": 44,
+    "temp_celcius": 6.7,
+    "temp_avg": 58
+  },
+  {
+    "date": "2016-03-26",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 55,
+    "temp_celcius": 12.8,
+    "temp_avg": 46.5
+  },
+  {
+    "date": "2016-03-26",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 38,
+    "temp_celcius": 3.3,
+    "temp_avg": 46.5
+  },
+  {
+    "date": "2016-03-27",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 55,
+    "temp_celcius": 12.8,
+    "temp_avg": 49
+  },
+  {
+    "date": "2016-03-27",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 43,
+    "temp_celcius": 6.1,
+    "temp_avg": 49
+  },
+  {
+    "date": "2016-03-28",
+    "precipitation": 0.38,
+    "temp_type": "temp_max",
+    "temp": 62,
+    "temp_celcius": 16.7,
+    "temp_avg": 52
+  },
+  {
+    "date": "2016-03-28",
+    "precipitation": 0.38,
+    "temp_type": "temp_min",
+    "temp": 42,
+    "temp_celcius": 5.6,
+    "temp_avg": 52
+  },
+  {
+    "date": "2016-03-29",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 53,
+    "temp_celcius": 11.7,
+    "temp_avg": 46.5
+  },
+  {
+    "date": "2016-03-29",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 40,
+    "temp_celcius": 4.4,
+    "temp_avg": 46.5
+  },
+  {
+    "date": "2016-03-30",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 56,
+    "temp_celcius": 13.3,
+    "temp_avg": 46.5
+  },
+  {
+    "date": "2016-03-30",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 37,
+    "temp_celcius": 2.8,
+    "temp_avg": 46.5
+  },
+  {
+    "date": "2016-03-31",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 73,
+    "temp_celcius": 22.8,
+    "temp_avg": 61
+  },
+  {
+    "date": "2016-03-31",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 49,
+    "temp_celcius": 9.4,
+    "temp_avg": 61
+  },
+  {
+    "date": "2016-04-01",
+    "precipitation": 0.02,
+    "temp_type": "temp_max",
+    "temp": 79,
+    "temp_celcius": 26.1,
+    "temp_avg": 70
+  },
+  {
+    "date": "2016-04-01",
+    "precipitation": 0.02,
+    "temp_type": "temp_min",
+    "temp": 61,
+    "temp_celcius": 16.1,
+    "temp_avg": 70
+  },
+  {
+    "date": "2016-04-02",
+    "precipitation": 0.16,
+    "temp_type": "temp_max",
+    "temp": 61,
+    "temp_celcius": 16.1,
+    "temp_avg": 55
+  },
+  {
+    "date": "2016-04-02",
+    "precipitation": 0.16,
+    "temp_type": "temp_min",
+    "temp": 49,
+    "temp_celcius": 9.4,
+    "temp_avg": 55
+  },
+  {
+    "date": "2016-04-03",
+    "precipitation": 0.09,
+    "temp_type": "temp_max",
+    "temp": 50,
+    "temp_celcius": 10,
+    "temp_avg": 42
+  },
+  {
+    "date": "2016-04-03",
+    "precipitation": 0.09,
+    "temp_type": "temp_min",
+    "temp": 34,
+    "temp_celcius": 1.1,
+    "temp_avg": 42
+  },
+  {
+    "date": "2016-04-04",
+    "precipitation": 0.47,
+    "temp_type": "temp_max",
+    "temp": 45,
+    "temp_celcius": 7.2,
+    "temp_avg": 37
+  },
+  {
+    "date": "2016-04-04",
+    "precipitation": 0.47,
+    "temp_type": "temp_min",
+    "temp": 29,
+    "temp_celcius": -1.7,
+    "temp_avg": 37
+  },
+  {
+    "date": "2016-04-05",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 43,
+    "temp_celcius": 6.1,
+    "temp_avg": 34.5
+  },
+  {
+    "date": "2016-04-05",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 26,
+    "temp_celcius": -3.3,
+    "temp_avg": 34.5
+  },
+  {
+    "date": "2016-04-06",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 48,
+    "temp_celcius": 8.9,
+    "temp_avg": 39
+  },
+  {
+    "date": "2016-04-06",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 30,
+    "temp_celcius": -1.1,
+    "temp_avg": 39
+  },
+  {
+    "date": "2016-04-07",
+    "precipitation": 0.09,
+    "temp_type": "temp_max",
+    "temp": 58,
+    "temp_celcius": 14.4,
+    "temp_avg": 53
+  },
+  {
+    "date": "2016-04-07",
+    "precipitation": 0.09,
+    "temp_type": "temp_min",
+    "temp": 48,
+    "temp_celcius": 8.9,
+    "temp_avg": 53
+  },
+  {
+    "date": "2016-04-08",
+    "precipitation": 0.01,
+    "temp_type": "temp_max",
+    "temp": 50,
+    "temp_celcius": 10,
+    "temp_avg": 45
+  },
+  {
+    "date": "2016-04-08",
+    "precipitation": 0.01,
+    "temp_type": "temp_min",
+    "temp": 40,
+    "temp_celcius": 4.4,
+    "temp_avg": 45
+  },
+  {
+    "date": "2016-04-09",
+    "precipitation": 0.11,
+    "temp_type": "temp_max",
+    "temp": 43,
+    "temp_celcius": 6.1,
+    "temp_avg": 39.5
+  },
+  {
+    "date": "2016-04-09",
+    "precipitation": 0.11,
+    "temp_type": "temp_min",
+    "temp": 36,
+    "temp_celcius": 2.2,
+    "temp_avg": 39.5
+  },
+  {
+    "date": "2016-04-10",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 50,
+    "temp_celcius": 10,
+    "temp_avg": 40.5
+  },
+  {
+    "date": "2016-04-10",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 31,
+    "temp_celcius": -0.6,
+    "temp_avg": 40.5
+  },
+  {
+    "date": "2016-04-11",
+    "precipitation": 0.01,
+    "temp_type": "temp_max",
+    "temp": 65,
+    "temp_celcius": 18.3,
+    "temp_avg": 54
+  },
+  {
+    "date": "2016-04-11",
+    "precipitation": 0.01,
+    "temp_type": "temp_min",
+    "temp": 43,
+    "temp_celcius": 6.1,
+    "temp_avg": 54
+  },
+  {
+    "date": "2016-04-12",
+    "precipitation": 0.2,
+    "temp_type": "temp_max",
+    "temp": 59,
+    "temp_celcius": 15,
+    "temp_avg": 52
+  },
+  {
+    "date": "2016-04-12",
+    "precipitation": 0.2,
+    "temp_type": "temp_min",
+    "temp": 45,
+    "temp_celcius": 7.2,
+    "temp_avg": 52
+  },
+  {
+    "date": "2016-04-13",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 58,
+    "temp_celcius": 14.4,
+    "temp_avg": 49
+  },
+  {
+    "date": "2016-04-13",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 40,
+    "temp_celcius": 4.4,
+    "temp_avg": 49
+  },
+  {
+    "date": "2016-04-14",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 62,
+    "temp_celcius": 16.7,
+    "temp_avg": 52.5
+  },
+  {
+    "date": "2016-04-14",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 43,
+    "temp_celcius": 6.1,
+    "temp_avg": 52.5
+  },
+  {
+    "date": "2016-04-15",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 65,
+    "temp_celcius": 18.3,
+    "temp_avg": 53.5
+  },
+  {
+    "date": "2016-04-15",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 42,
+    "temp_celcius": 5.6,
+    "temp_avg": 53.5
+  },
+  {
+    "date": "2016-04-16",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 68,
+    "temp_celcius": 20,
+    "temp_avg": 55.5
+  },
+  {
+    "date": "2016-04-16",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 43,
+    "temp_celcius": 6.1,
+    "temp_avg": 55.5
+  },
+  {
+    "date": "2016-04-17",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 75,
+    "temp_celcius": 23.9,
+    "temp_avg": 59.5
+  },
+  {
+    "date": "2016-04-17",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 44,
+    "temp_celcius": 6.7,
+    "temp_avg": 59.5
+  },
+  {
+    "date": "2016-04-18",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 82,
+    "temp_celcius": 27.8,
+    "temp_avg": 66.5
+  },
+  {
+    "date": "2016-04-18",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 51,
+    "temp_celcius": 10.6,
+    "temp_avg": 66.5
+  },
+  {
+    "date": "2016-04-19",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 73,
+    "temp_celcius": 22.8,
+    "temp_avg": 64
+  },
+  {
+    "date": "2016-04-19",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 55,
+    "temp_celcius": 12.8,
+    "temp_avg": 64
+  },
+  {
+    "date": "2016-04-20",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 69,
+    "temp_celcius": 20.6,
+    "temp_avg": 59
+  },
+  {
+    "date": "2016-04-20",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 49,
+    "temp_celcius": 9.4,
+    "temp_avg": 59
+  },
+  {
+    "date": "2016-04-21",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 73,
+    "temp_celcius": 22.8,
+    "temp_avg": 61
+  },
+  {
+    "date": "2016-04-21",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 49,
+    "temp_celcius": 9.4,
+    "temp_avg": 61
+  },
+  {
+    "date": "2016-04-22",
+    "precipitation": "T",
+    "temp_type": "temp_max",
+    "temp": 79,
+    "temp_celcius": 26.1,
+    "temp_avg": 70.5
+  },
+  {
+    "date": "2016-04-22",
+    "precipitation": "T",
+    "temp_type": "temp_min",
+    "temp": 62,
+    "temp_celcius": 16.7,
+    "temp_avg": 70.5
+  },
+  {
+    "date": "2016-04-23",
+    "precipitation": 0.16,
+    "temp_type": "temp_max",
+    "temp": 71,
+    "temp_celcius": 21.7,
+    "temp_avg": 62.5
+  },
+  {
+    "date": "2016-04-23",
+    "precipitation": 0.16,
+    "temp_type": "temp_min",
+    "temp": 54,
+    "temp_celcius": 12.2,
+    "temp_avg": 62.5
+  },
+  {
+    "date": "2016-04-24",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 68,
+    "temp_celcius": 20,
+    "temp_avg": 57.5
+  },
+  {
+    "date": "2016-04-24",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 47,
+    "temp_celcius": 8.3,
+    "temp_avg": 57.5
+  },
+  {
+    "date": "2016-04-25",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 69,
+    "temp_celcius": 20.6,
+    "temp_avg": 59.5
+  },
+  {
+    "date": "2016-04-25",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 50,
+    "temp_celcius": 10,
+    "temp_avg": 59.5
+  },
+  {
+    "date": "2016-04-26",
+    "precipitation": 0.24,
+    "temp_type": "temp_max",
+    "temp": 60,
+    "temp_celcius": 15.6,
+    "temp_avg": 53.5
+  },
+  {
+    "date": "2016-04-26",
+    "precipitation": 0.24,
+    "temp_type": "temp_min",
+    "temp": 47,
+    "temp_celcius": 8.3,
+    "temp_avg": 53.5
+  },
+  {
+    "date": "2016-04-27",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 62,
+    "temp_celcius": 16.7,
+    "temp_avg": 54
+  },
+  {
+    "date": "2016-04-27",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 46,
+    "temp_celcius": 7.8,
+    "temp_avg": 54
+  },
+  {
+    "date": "2016-04-28",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 59,
+    "temp_celcius": 15,
+    "temp_avg": 53.5
+  },
+  {
+    "date": "2016-04-28",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 48,
+    "temp_celcius": 8.9,
+    "temp_avg": 53.5
+  },
+  {
+    "date": "2016-04-29",
+    "precipitation": 0.05,
+    "temp_type": "temp_max",
+    "temp": 58,
+    "temp_celcius": 14.4,
+    "temp_avg": 51.5
+  },
+  {
+    "date": "2016-04-29",
+    "precipitation": 0.05,
+    "temp_type": "temp_min",
+    "temp": 45,
+    "temp_celcius": 7.2,
+    "temp_avg": 51.5
+  },
+  {
+    "date": "2016-04-30",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 65,
+    "temp_celcius": 18.3,
+    "temp_avg": 55.5
+  },
+  {
+    "date": "2016-04-30",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 46,
+    "temp_celcius": 7.8,
+    "temp_avg": 55.5
+  },
+  {
+    "date": "2016-05-01",
+    "precipitation": 0.16,
+    "temp_type": "temp_max",
+    "temp": 51,
+    "temp_celcius": 10.6,
+    "temp_avg": 48
+  },
+  {
+    "date": "2016-05-01",
+    "precipitation": 0.16,
+    "temp_type": "temp_min",
+    "temp": 45,
+    "temp_celcius": 7.2,
+    "temp_avg": 48
+  },
+  {
+    "date": "2016-05-02",
+    "precipitation": 0.04,
+    "temp_type": "temp_max",
+    "temp": 60,
+    "temp_celcius": 15.6,
+    "temp_avg": 52.5
+  },
+  {
+    "date": "2016-05-02",
+    "precipitation": 0.04,
+    "temp_type": "temp_min",
+    "temp": 45,
+    "temp_celcius": 7.2,
+    "temp_avg": 52.5
+  },
+  {
+    "date": "2016-05-03",
+    "precipitation": 0.61,
+    "temp_type": "temp_max",
+    "temp": 56,
+    "temp_celcius": 13.3,
+    "temp_avg": 53.5
+  },
+  {
+    "date": "2016-05-03",
+    "precipitation": 0.61,
+    "temp_type": "temp_min",
+    "temp": 51,
+    "temp_celcius": 10.6,
+    "temp_avg": 53.5
+  },
+  {
+    "date": "2016-05-04",
+    "precipitation": 0.01,
+    "temp_type": "temp_max",
+    "temp": 52,
+    "temp_celcius": 11.1,
+    "temp_avg": 50
+  },
+  {
+    "date": "2016-05-04",
+    "precipitation": 0.01,
+    "temp_type": "temp_min",
+    "temp": 48,
+    "temp_celcius": 8.9,
+    "temp_avg": 50
+  },
+  {
+    "date": "2016-05-05",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 57,
+    "temp_celcius": 13.9,
+    "temp_avg": 51.5
+  },
+  {
+    "date": "2016-05-05",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 46,
+    "temp_celcius": 7.8,
+    "temp_avg": 51.5
+  },
+  {
+    "date": "2016-05-06",
+    "precipitation": 0.54,
+    "temp_type": "temp_max",
+    "temp": 54,
+    "temp_celcius": 12.2,
+    "temp_avg": 51
+  },
+  {
+    "date": "2016-05-06",
+    "precipitation": 0.54,
+    "temp_type": "temp_min",
+    "temp": 48,
+    "temp_celcius": 8.9,
+    "temp_avg": 51
+  },
+  {
+    "date": "2016-05-07",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 60,
+    "temp_celcius": 15.6,
+    "temp_avg": 54
+  },
+  {
+    "date": "2016-05-07",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 48,
+    "temp_celcius": 8.9,
+    "temp_avg": 54
+  },
+  {
+    "date": "2016-05-08",
+    "precipitation": 0.16,
+    "temp_type": "temp_max",
+    "temp": 66,
+    "temp_celcius": 18.9,
+    "temp_avg": 57.5
+  },
+  {
+    "date": "2016-05-08",
+    "precipitation": 0.16,
+    "temp_type": "temp_min",
+    "temp": 49,
+    "temp_celcius": 9.4,
+    "temp_avg": 57.5
+  },
+  {
+    "date": "2016-05-09",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 72,
+    "temp_celcius": 22.2,
+    "temp_avg": 62
+  },
+  {
+    "date": "2016-05-09",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 52,
+    "temp_celcius": 11.1,
+    "temp_avg": 62
+  },
+  {
+    "date": "2016-05-10",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 63,
+    "temp_celcius": 17.2,
+    "temp_avg": 56.5
+  },
+  {
+    "date": "2016-05-10",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 50,
+    "temp_celcius": 10,
+    "temp_avg": 56.5
+  },
+  {
+    "date": "2016-05-11",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 76,
+    "temp_celcius": 24.4,
+    "temp_avg": 63
+  },
+  {
+    "date": "2016-05-11",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 50,
+    "temp_celcius": 10,
+    "temp_avg": 63
+  },
+  {
+    "date": "2016-05-12",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 80,
+    "temp_celcius": 26.7,
+    "temp_avg": 68
+  },
+  {
+    "date": "2016-05-12",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 56,
+    "temp_celcius": 13.3,
+    "temp_avg": 68
+  },
+  {
+    "date": "2016-05-13",
+    "precipitation": 0.25,
+    "temp_type": "temp_max",
+    "temp": 65,
+    "temp_celcius": 18.3,
+    "temp_avg": 61
+  },
+  {
+    "date": "2016-05-13",
+    "precipitation": 0.25,
+    "temp_type": "temp_min",
+    "temp": 57,
+    "temp_celcius": 13.9,
+    "temp_avg": 61
+  },
+  {
+    "date": "2016-05-14",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 73,
+    "temp_celcius": 22.8,
+    "temp_avg": 64.5
+  },
+  {
+    "date": "2016-05-14",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 56,
+    "temp_celcius": 13.3,
+    "temp_avg": 64.5
+  },
+  {
+    "date": "2016-05-15",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 59,
+    "temp_celcius": 15,
+    "temp_avg": 52.5
+  },
+  {
+    "date": "2016-05-15",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 46,
+    "temp_celcius": 7.8,
+    "temp_avg": 52.5
+  },
+  {
+    "date": "2016-05-16",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 66,
+    "temp_celcius": 18.9,
+    "temp_avg": 54.5
+  },
+  {
+    "date": "2016-05-16",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 43,
+    "temp_celcius": 6.1,
+    "temp_avg": 54.5
+  },
+  {
+    "date": "2016-05-17",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 64,
+    "temp_celcius": 17.8,
+    "temp_avg": 58
+  },
+  {
+    "date": "2016-05-17",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 52,
+    "temp_celcius": 11.1,
+    "temp_avg": 58
+  },
+  {
+    "date": "2016-05-18",
+    "precipitation": "T",
+    "temp_type": "temp_max",
+    "temp": 68,
+    "temp_celcius": 20,
+    "temp_avg": 60
+  },
+  {
+    "date": "2016-05-18",
+    "precipitation": "T",
+    "temp_type": "temp_min",
+    "temp": 52,
+    "temp_celcius": 11.1,
+    "temp_avg": 60
+  },
+  {
+    "date": "2016-05-19",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 73,
+    "temp_celcius": 22.8,
+    "temp_avg": 63.5
+  },
+  {
+    "date": "2016-05-19",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 54,
+    "temp_celcius": 12.2,
+    "temp_avg": 63.5
+  },
+  {
+    "date": "2016-05-20",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 76,
+    "temp_celcius": 24.4,
+    "temp_avg": 64.5
+  },
+  {
+    "date": "2016-05-20",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 53,
+    "temp_celcius": 11.7,
+    "temp_avg": 64.5
+  },
+  {
+    "date": "2016-05-21",
+    "precipitation": 0.04,
+    "temp_type": "temp_max",
+    "temp": 66,
+    "temp_celcius": 18.9,
+    "temp_avg": 60
+  },
+  {
+    "date": "2016-05-21",
+    "precipitation": 0.04,
+    "temp_type": "temp_min",
+    "temp": 54,
+    "temp_celcius": 12.2,
+    "temp_avg": 60
+  },
+  {
+    "date": "2016-05-22",
+    "precipitation": 0.09,
+    "temp_type": "temp_max",
+    "temp": 70,
+    "temp_celcius": 21.1,
+    "temp_avg": 61
+  },
+  {
+    "date": "2016-05-22",
+    "precipitation": 0.09,
+    "temp_type": "temp_min",
+    "temp": 52,
+    "temp_celcius": 11.1,
+    "temp_avg": 61
+  },
+  {
+    "date": "2016-05-23",
+    "precipitation": 0.02,
+    "temp_type": "temp_max",
+    "temp": 78,
+    "temp_celcius": 25.6,
+    "temp_avg": 67
+  },
+  {
+    "date": "2016-05-23",
+    "precipitation": 0.02,
+    "temp_type": "temp_min",
+    "temp": 56,
+    "temp_celcius": 13.3,
+    "temp_avg": 67
+  },
+  {
+    "date": "2016-05-24",
+    "precipitation": 0.18,
+    "temp_type": "temp_max",
+    "temp": 73,
+    "temp_celcius": 22.8,
+    "temp_avg": 65.5
+  },
+  {
+    "date": "2016-05-24",
+    "precipitation": 0.18,
+    "temp_type": "temp_min",
+    "temp": 58,
+    "temp_celcius": 14.4,
+    "temp_avg": 65.5
+  },
+  {
+    "date": "2016-05-25",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 88,
+    "temp_celcius": 31.1,
+    "temp_avg": 74.5
+  },
+  {
+    "date": "2016-05-25",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 61,
+    "temp_celcius": 16.1,
+    "temp_avg": 74.5
+  },
+  {
+    "date": "2016-05-26",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 90,
+    "temp_celcius": 32.2,
+    "temp_avg": 79.5
+  },
+  {
+    "date": "2016-05-26",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 69,
+    "temp_celcius": 20.6,
+    "temp_avg": 79.5
+  },
+  {
+    "date": "2016-05-27",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 87,
+    "temp_celcius": 30.6,
+    "temp_avg": 80
+  },
+  {
+    "date": "2016-05-27",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 73,
+    "temp_celcius": 22.8,
+    "temp_avg": 80
+  },
+  {
+    "date": "2016-05-28",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 92,
+    "temp_celcius": 33.3,
+    "temp_avg": 81.5
+  },
+  {
+    "date": "2016-05-28",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 71,
+    "temp_celcius": 21.7,
+    "temp_avg": 81.5
+  },
+  {
+    "date": "2016-05-29",
+    "precipitation": "T",
+    "temp_type": "temp_max",
+    "temp": 87,
+    "temp_celcius": 30.6,
+    "temp_avg": 78.5
+  },
+  {
+    "date": "2016-05-29",
+    "precipitation": "T",
+    "temp_type": "temp_min",
+    "temp": 70,
+    "temp_celcius": 21.1,
+    "temp_avg": 78.5
+  },
+  {
+    "date": "2016-05-30",
+    "precipitation": 1.65,
+    "temp_type": "temp_max",
+    "temp": 82,
+    "temp_celcius": 27.8,
+    "temp_avg": 75
+  },
+  {
+    "date": "2016-05-30",
+    "precipitation": 1.65,
+    "temp_type": "temp_min",
+    "temp": 68,
+    "temp_celcius": 20,
+    "temp_avg": 75
+  },
+  {
+    "date": "2016-05-31",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 85,
+    "temp_celcius": 29.4,
+    "temp_avg": 78
+  },
+  {
+    "date": "2016-05-31",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 71,
+    "temp_celcius": 21.7,
+    "temp_avg": 78
+  },
+  {
+    "date": "2016-06-01",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 83,
+    "temp_celcius": 28.3,
+    "temp_avg": 74.5
+  },
+  {
+    "date": "2016-06-01",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 66,
+    "temp_celcius": 18.9,
+    "temp_avg": 74.5
+  },
+  {
+    "date": "2016-06-02",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 78,
+    "temp_celcius": 25.6,
+    "temp_avg": 70
+  },
+  {
+    "date": "2016-06-02",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 62,
+    "temp_celcius": 16.7,
+    "temp_avg": 70
+  },
+  {
+    "date": "2016-06-03",
+    "precipitation": 0.04,
+    "temp_type": "temp_max",
+    "temp": 70,
+    "temp_celcius": 21.1,
+    "temp_avg": 66.5
+  },
+  {
+    "date": "2016-06-03",
+    "precipitation": 0.04,
+    "temp_type": "temp_min",
+    "temp": 63,
+    "temp_celcius": 17.2,
+    "temp_avg": 66.5
+  },
+  {
+    "date": "2016-06-04",
+    "precipitation": 0.4,
+    "temp_type": "temp_max",
+    "temp": 83,
+    "temp_celcius": 28.3,
+    "temp_avg": 74.5
+  },
+  {
+    "date": "2016-06-04",
+    "precipitation": 0.4,
+    "temp_type": "temp_min",
+    "temp": 66,
+    "temp_celcius": 18.9,
+    "temp_avg": 74.5
+  },
+  {
+    "date": "2016-06-05",
+    "precipitation": 0.91,
+    "temp_type": "temp_max",
+    "temp": 71,
+    "temp_celcius": 21.7,
+    "temp_avg": 68
+  },
+  {
+    "date": "2016-06-05",
+    "precipitation": 0.91,
+    "temp_type": "temp_min",
+    "temp": 65,
+    "temp_celcius": 18.3,
+    "temp_avg": 68
+  },
+  {
+    "date": "2016-06-06",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 83,
+    "temp_celcius": 28.3,
+    "temp_avg": 74
+  },
+  {
+    "date": "2016-06-06",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 65,
+    "temp_celcius": 18.3,
+    "temp_avg": 74
+  },
+  {
+    "date": "2016-06-07",
+    "precipitation": "T",
+    "temp_type": "temp_max",
+    "temp": 85,
+    "temp_celcius": 29.4,
+    "temp_avg": 74.5
+  },
+  {
+    "date": "2016-06-07",
+    "precipitation": "T",
+    "temp_type": "temp_min",
+    "temp": 64,
+    "temp_celcius": 17.8,
+    "temp_avg": 74.5
+  },
+  {
+    "date": "2016-06-08",
+    "precipitation": 0.45,
+    "temp_type": "temp_max",
+    "temp": 67,
+    "temp_celcius": 19.4,
+    "temp_avg": 59.5
+  },
+  {
+    "date": "2016-06-08",
+    "precipitation": 0.45,
+    "temp_type": "temp_min",
+    "temp": 52,
+    "temp_celcius": 11.1,
+    "temp_avg": 59.5
+  },
+  {
+    "date": "2016-06-09",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 71,
+    "temp_celcius": 21.7,
+    "temp_avg": 62.5
+  },
+  {
+    "date": "2016-06-09",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 54,
+    "temp_celcius": 12.2,
+    "temp_avg": 62.5
+  },
+  {
+    "date": "2016-06-10",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 77,
+    "temp_celcius": 25,
+    "temp_avg": 67
+  },
+  {
+    "date": "2016-06-10",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 57,
+    "temp_celcius": 13.9,
+    "temp_avg": 67
+  },
+  {
+    "date": "2016-06-11",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 88,
+    "temp_celcius": 31.1,
+    "temp_avg": 73.5
+  },
+  {
+    "date": "2016-06-11",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 59,
+    "temp_celcius": 15,
+    "temp_avg": 73.5
+  },
+  {
+    "date": "2016-06-12",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 83,
+    "temp_celcius": 28.3,
+    "temp_avg": 72.5
+  },
+  {
+    "date": "2016-06-12",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 62,
+    "temp_celcius": 16.7,
+    "temp_avg": 72.5
+  },
+  {
+    "date": "2016-06-13",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 74,
+    "temp_celcius": 23.3,
+    "temp_avg": 65.5
+  },
+  {
+    "date": "2016-06-13",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 57,
+    "temp_celcius": 13.9,
+    "temp_avg": 65.5
+  },
+  {
+    "date": "2016-06-14",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 79,
+    "temp_celcius": 26.1,
+    "temp_avg": 68.5
+  },
+  {
+    "date": "2016-06-14",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 58,
+    "temp_celcius": 14.4,
+    "temp_avg": 68.5
+  },
+  {
+    "date": "2016-06-15",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 85,
+    "temp_celcius": 29.4,
+    "temp_avg": 73.5
+  },
+  {
+    "date": "2016-06-15",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 62,
+    "temp_celcius": 16.7,
+    "temp_avg": 73.5
+  },
+  {
+    "date": "2016-06-16",
+    "precipitation": 0.22,
+    "temp_type": "temp_max",
+    "temp": 74,
+    "temp_celcius": 23.3,
+    "temp_avg": 69.5
+  },
+  {
+    "date": "2016-06-16",
+    "precipitation": 0.22,
+    "temp_type": "temp_min",
+    "temp": 65,
+    "temp_celcius": 18.3,
+    "temp_avg": 69.5
+  },
+  {
+    "date": "2016-06-17",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 78,
+    "temp_celcius": 25.6,
+    "temp_avg": 70.5
+  },
+  {
+    "date": "2016-06-17",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 63,
+    "temp_celcius": 17.2,
+    "temp_avg": 70.5
+  },
+  {
+    "date": "2016-06-18",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 87,
+    "temp_celcius": 30.6,
+    "temp_avg": 74
+  },
+  {
+    "date": "2016-06-18",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 61,
+    "temp_celcius": 16.1,
+    "temp_avg": 74
+  },
+  {
+    "date": "2016-06-19",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 88,
+    "temp_celcius": 31.1,
+    "temp_avg": 77
+  },
+  {
+    "date": "2016-06-19",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 66,
+    "temp_celcius": 18.9,
+    "temp_avg": 77
+  },
+  {
+    "date": "2016-06-20",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 84,
+    "temp_celcius": 28.9,
+    "temp_avg": 74
+  },
+  {
+    "date": "2016-06-20",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 64,
+    "temp_celcius": 17.8,
+    "temp_avg": 74
+  },
+  {
+    "date": "2016-06-21",
+    "precipitation": "T",
+    "temp_type": "temp_max",
+    "temp": 87,
+    "temp_celcius": 30.6,
+    "temp_avg": 79.5
+  },
+  {
+    "date": "2016-06-21",
+    "precipitation": "T",
+    "temp_type": "temp_min",
+    "temp": 72,
+    "temp_celcius": 22.2,
+    "temp_avg": 79.5
+  },
+  {
+    "date": "2016-06-22",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 86,
+    "temp_celcius": 30,
+    "temp_avg": 77
+  },
+  {
+    "date": "2016-06-22",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 68,
+    "temp_celcius": 20,
+    "temp_avg": 77
+  },
+  {
+    "date": "2016-06-23",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 83,
+    "temp_celcius": 28.3,
+    "temp_avg": 76
+  },
+  {
+    "date": "2016-06-23",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 69,
+    "temp_celcius": 20.6,
+    "temp_avg": 76
+  },
+  {
+    "date": "2016-06-24",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 84,
+    "temp_celcius": 28.9,
+    "temp_avg": 75.5
+  },
+  {
+    "date": "2016-06-24",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 67,
+    "temp_celcius": 19.4,
+    "temp_avg": 75.5
+  },
+  {
+    "date": "2016-06-25",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 86,
+    "temp_celcius": 30,
+    "temp_avg": 75
+  },
+  {
+    "date": "2016-06-25",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 64,
+    "temp_celcius": 17.8,
+    "temp_avg": 75
+  },
+  {
+    "date": "2016-06-26",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 87,
+    "temp_celcius": 30.6,
+    "temp_avg": 77
+  },
+  {
+    "date": "2016-06-26",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 67,
+    "temp_celcius": 19.4,
+    "temp_avg": 77
+  },
+  {
+    "date": "2016-06-27",
+    "precipitation": 0.45,
+    "temp_type": "temp_max",
+    "temp": 83,
+    "temp_celcius": 28.3,
+    "temp_avg": 75
+  },
+  {
+    "date": "2016-06-27",
+    "precipitation": 0.45,
+    "temp_type": "temp_min",
+    "temp": 67,
+    "temp_celcius": 19.4,
+    "temp_avg": 75
+  },
+  {
+    "date": "2016-06-28",
+    "precipitation": 0.12,
+    "temp_type": "temp_max",
+    "temp": 76,
+    "temp_celcius": 24.4,
+    "temp_avg": 72
+  },
+  {
+    "date": "2016-06-28",
+    "precipitation": 0.12,
+    "temp_type": "temp_min",
+    "temp": 68,
+    "temp_celcius": 20,
+    "temp_avg": 72
+  },
+  {
+    "date": "2016-06-29",
+    "precipitation": 0.01,
+    "temp_type": "temp_max",
+    "temp": 83,
+    "temp_celcius": 28.3,
+    "temp_avg": 75
+  },
+  {
+    "date": "2016-06-29",
+    "precipitation": 0.01,
+    "temp_type": "temp_min",
+    "temp": 67,
+    "temp_celcius": 19.4,
+    "temp_avg": 75
+  },
+  {
+    "date": "2016-06-30",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 85,
+    "temp_celcius": 29.4,
+    "temp_avg": 76
+  },
+  {
+    "date": "2016-06-30",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 67,
+    "temp_celcius": 19.4,
+    "temp_avg": 76
+  },
+  {
+    "date": "2016-07-01",
+    "precipitation": 0.83,
+    "temp_type": "temp_max",
+    "temp": 79,
+    "temp_celcius": 26.1,
+    "temp_avg": 72.5
+  },
+  {
+    "date": "2016-07-01",
+    "precipitation": 0.83,
+    "temp_type": "temp_min",
+    "temp": 66,
+    "temp_celcius": 18.9,
+    "temp_avg": 72.5
+  },
+  {
+    "date": "2016-07-02",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 76,
+    "temp_celcius": 24.4,
+    "temp_avg": 69.5
+  },
+  {
+    "date": "2016-07-02",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 63,
+    "temp_celcius": 17.2,
+    "temp_avg": 69.5
+  },
+  {
+    "date": "2016-07-03",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 78,
+    "temp_celcius": 25.6,
+    "temp_avg": 71
+  },
+  {
+    "date": "2016-07-03",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 64,
+    "temp_celcius": 17.8,
+    "temp_avg": 71
+  },
+  {
+    "date": "2016-07-04",
+    "precipitation": 0.49,
+    "temp_type": "temp_max",
+    "temp": 84,
+    "temp_celcius": 28.9,
+    "temp_avg": 75
+  },
+  {
+    "date": "2016-07-04",
+    "precipitation": 0.49,
+    "temp_type": "temp_min",
+    "temp": 66,
+    "temp_celcius": 18.9,
+    "temp_avg": 75
+  },
+  {
+    "date": "2016-07-05",
+    "precipitation": 0.66,
+    "temp_type": "temp_max",
+    "temp": 86,
+    "temp_celcius": 30,
+    "temp_avg": 77.5
+  },
+  {
+    "date": "2016-07-05",
+    "precipitation": 0.66,
+    "temp_type": "temp_min",
+    "temp": 69,
+    "temp_celcius": 20.6,
+    "temp_avg": 77.5
+  },
+  {
+    "date": "2016-07-06",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 91,
+    "temp_celcius": 32.8,
+    "temp_avg": 83
+  },
+  {
+    "date": "2016-07-06",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 75,
+    "temp_celcius": 23.9,
+    "temp_avg": 83
+  },
+  {
+    "date": "2016-07-07",
+    "precipitation": 0.04,
+    "temp_type": "temp_max",
+    "temp": 89,
+    "temp_celcius": 31.7,
+    "temp_avg": 83
+  },
+  {
+    "date": "2016-07-07",
+    "precipitation": 0.04,
+    "temp_type": "temp_min",
+    "temp": 77,
+    "temp_celcius": 25,
+    "temp_avg": 83
+  },
+  {
+    "date": "2016-07-08",
+    "precipitation": 0.08,
+    "temp_type": "temp_max",
+    "temp": 86,
+    "temp_celcius": 30,
+    "temp_avg": 76.5
+  },
+  {
+    "date": "2016-07-08",
+    "precipitation": 0.08,
+    "temp_type": "temp_min",
+    "temp": 67,
+    "temp_celcius": 19.4,
+    "temp_avg": 76.5
+  },
+  {
+    "date": "2016-07-09",
+    "precipitation": 0.53,
+    "temp_type": "temp_max",
+    "temp": 72,
+    "temp_celcius": 22.2,
+    "temp_avg": 68.5
+  },
+  {
+    "date": "2016-07-09",
+    "precipitation": 0.53,
+    "temp_type": "temp_min",
+    "temp": 65,
+    "temp_celcius": 18.3,
+    "temp_avg": 68.5
+  },
+  {
+    "date": "2016-07-10",
+    "precipitation": "T",
+    "temp_type": "temp_max",
+    "temp": 80,
+    "temp_celcius": 26.7,
+    "temp_avg": 73
+  },
+  {
+    "date": "2016-07-10",
+    "precipitation": "T",
+    "temp_type": "temp_min",
+    "temp": 66,
+    "temp_celcius": 18.9,
+    "temp_avg": 73
+  },
+  {
+    "date": "2016-07-11",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 81,
+    "temp_celcius": 27.2,
+    "temp_avg": 73
+  },
+  {
+    "date": "2016-07-11",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 65,
+    "temp_celcius": 18.3,
+    "temp_avg": 73
+  },
+  {
+    "date": "2016-07-12",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 82,
+    "temp_celcius": 27.8,
+    "temp_avg": 75
+  },
+  {
+    "date": "2016-07-12",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 68,
+    "temp_celcius": 20,
+    "temp_avg": 75
+  },
+  {
+    "date": "2016-07-13",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 85,
+    "temp_celcius": 29.4,
+    "temp_avg": 78
+  },
+  {
+    "date": "2016-07-13",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 71,
+    "temp_celcius": 21.7,
+    "temp_avg": 78
+  },
+  {
+    "date": "2016-07-14",
+    "precipitation": 0.62,
+    "temp_type": "temp_max",
+    "temp": 88,
+    "temp_celcius": 31.1,
+    "temp_avg": 80.5
+  },
+  {
+    "date": "2016-07-14",
+    "precipitation": 0.62,
+    "temp_type": "temp_min",
+    "temp": 73,
+    "temp_celcius": 22.8,
+    "temp_avg": 80.5
+  },
+  {
+    "date": "2016-07-15",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 88,
+    "temp_celcius": 31.1,
+    "temp_avg": 83.5
+  },
+  {
+    "date": "2016-07-15",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 79,
+    "temp_celcius": 26.1,
+    "temp_avg": 83.5
+  },
+  {
+    "date": "2016-07-16",
+    "precipitation": "T",
+    "temp_type": "temp_max",
+    "temp": 90,
+    "temp_celcius": 32.2,
+    "temp_avg": 82.5
+  },
+  {
+    "date": "2016-07-16",
+    "precipitation": "T",
+    "temp_type": "temp_min",
+    "temp": 75,
+    "temp_celcius": 23.9,
+    "temp_avg": 82.5
+  },
+  {
+    "date": "2016-07-17",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 89,
+    "temp_celcius": 31.7,
+    "temp_avg": 82
+  },
+  {
+    "date": "2016-07-17",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 75,
+    "temp_celcius": 23.9,
+    "temp_avg": 82
+  },
+  {
+    "date": "2016-07-18",
+    "precipitation": 0.35,
+    "temp_type": "temp_max",
+    "temp": 93,
+    "temp_celcius": 33.9,
+    "temp_avg": 82.5
+  },
+  {
+    "date": "2016-07-18",
+    "precipitation": 0.35,
+    "temp_type": "temp_min",
+    "temp": 72,
+    "temp_celcius": 22.2,
+    "temp_avg": 82.5
+  },
+  {
+    "date": "2016-07-19",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 83,
+    "temp_celcius": 28.3,
+    "temp_avg": 78
+  },
+  {
+    "date": "2016-07-19",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 73,
+    "temp_celcius": 22.8,
+    "temp_avg": 78
+  },
+  {
+    "date": "2016-07-20",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 85,
+    "temp_celcius": 29.4,
+    "temp_avg": 76.5
+  },
+  {
+    "date": "2016-07-20",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 68,
+    "temp_celcius": 20,
+    "temp_avg": 76.5
+  },
+  {
+    "date": "2016-07-21",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 90,
+    "temp_celcius": 32.2,
+    "temp_avg": 80.5
+  },
+  {
+    "date": "2016-07-21",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 71,
+    "temp_celcius": 21.7,
+    "temp_avg": 80.5
+  },
+  {
+    "date": "2016-07-22",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 94,
+    "temp_celcius": 34.4,
+    "temp_avg": 84
+  },
+  {
+    "date": "2016-07-22",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 74,
+    "temp_celcius": 23.3,
+    "temp_avg": 84
+  },
+  {
+    "date": "2016-07-23",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 96,
+    "temp_celcius": 35.6,
+    "temp_avg": 88
+  },
+  {
+    "date": "2016-07-23",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 80,
+    "temp_celcius": 26.7,
+    "temp_avg": 88
+  },
+  {
+    "date": "2016-07-24",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 94,
+    "temp_celcius": 34.4,
+    "temp_avg": 84.5
+  },
+  {
+    "date": "2016-07-24",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 75,
+    "temp_celcius": 23.9,
+    "temp_avg": 84.5
+  },
+  {
+    "date": "2016-07-25",
+    "precipitation": 1,
+    "temp_type": "temp_max",
+    "temp": 93,
+    "temp_celcius": 33.9,
+    "temp_avg": 83
+  },
+  {
+    "date": "2016-07-25",
+    "precipitation": 1,
+    "temp_type": "temp_min",
+    "temp": 73,
+    "temp_celcius": 22.8,
+    "temp_avg": 83
+  },
+  {
+    "date": "2016-07-26",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 89,
+    "temp_celcius": 31.7,
+    "temp_avg": 80.5
+  },
+  {
+    "date": "2016-07-26",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 72,
+    "temp_celcius": 22.2,
+    "temp_avg": 80.5
+  },
+  {
+    "date": "2016-07-27",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 91,
+    "temp_celcius": 32.8,
+    "temp_avg": 82.5
+  },
+  {
+    "date": "2016-07-27",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 74,
+    "temp_celcius": 23.3,
+    "temp_avg": 82.5
+  },
+  {
+    "date": "2016-07-28",
+    "precipitation": "T",
+    "temp_type": "temp_max",
+    "temp": 95,
+    "temp_celcius": 35,
+    "temp_avg": 85
+  },
+  {
+    "date": "2016-07-28",
+    "precipitation": "T",
+    "temp_type": "temp_min",
+    "temp": 75,
+    "temp_celcius": 23.9,
+    "temp_avg": 85
+  },
+  {
+    "date": "2016-07-29",
+    "precipitation": 1.09,
+    "temp_type": "temp_max",
+    "temp": 85,
+    "temp_celcius": 29.4,
+    "temp_avg": 77
+  },
+  {
+    "date": "2016-07-29",
+    "precipitation": 1.09,
+    "temp_type": "temp_min",
+    "temp": 69,
+    "temp_celcius": 20.6,
+    "temp_avg": 77
+  },
+  {
+    "date": "2016-07-30",
+    "precipitation": 0.25,
+    "temp_type": "temp_max",
+    "temp": 84,
+    "temp_celcius": 28.9,
+    "temp_avg": 78.5
+  },
+  {
+    "date": "2016-07-30",
+    "precipitation": 0.25,
+    "temp_type": "temp_min",
+    "temp": 73,
+    "temp_celcius": 22.8,
+    "temp_avg": 78.5
+  },
+  {
+    "date": "2016-07-31",
+    "precipitation": 1.08,
+    "temp_type": "temp_max",
+    "temp": 78,
+    "temp_celcius": 25.6,
+    "temp_avg": 74.5
+  },
+  {
+    "date": "2016-07-31",
+    "precipitation": 1.08,
+    "temp_type": "temp_min",
+    "temp": 71,
+    "temp_celcius": 21.7,
+    "temp_avg": 74.5
+  },
+  {
+    "date": "2016-08-01",
+    "precipitation": "T",
+    "temp_type": "temp_max",
+    "temp": 80,
+    "temp_celcius": 26.7,
+    "temp_avg": 74.5
+  },
+  {
+    "date": "2016-08-01",
+    "precipitation": "T",
+    "temp_type": "temp_min",
+    "temp": 69,
+    "temp_celcius": 20.6,
+    "temp_avg": 74.5
+  },
+  {
+    "date": "2016-08-02",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 79,
+    "temp_celcius": 26.1,
+    "temp_avg": 73.5
+  },
+  {
+    "date": "2016-08-02",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 68,
+    "temp_celcius": 20,
+    "temp_avg": 73.5
+  },
+  {
+    "date": "2016-08-03",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 80,
+    "temp_celcius": 26.7,
+    "temp_avg": 73
+  },
+  {
+    "date": "2016-08-03",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 66,
+    "temp_celcius": 18.9,
+    "temp_avg": 73
+  },
+  {
+    "date": "2016-08-04",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 81,
+    "temp_celcius": 27.2,
+    "temp_avg": 74
+  },
+  {
+    "date": "2016-08-04",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 67,
+    "temp_celcius": 19.4,
+    "temp_avg": 74
+  },
+  {
+    "date": "2016-08-05",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 83,
+    "temp_celcius": 28.3,
+    "temp_avg": 76
+  },
+  {
+    "date": "2016-08-05",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 69,
+    "temp_celcius": 20.6,
+    "temp_avg": 76
+  },
+  {
+    "date": "2016-08-06",
+    "precipitation": 0.05,
+    "temp_type": "temp_max",
+    "temp": 87,
+    "temp_celcius": 30.6,
+    "temp_avg": 79.5
+  },
+  {
+    "date": "2016-08-06",
+    "precipitation": 0.05,
+    "temp_type": "temp_min",
+    "temp": 72,
+    "temp_celcius": 22.2,
+    "temp_avg": 79.5
+  },
+  {
+    "date": "2016-08-07",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 86,
+    "temp_celcius": 30,
+    "temp_avg": 78
+  },
+  {
+    "date": "2016-08-07",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 70,
+    "temp_celcius": 21.1,
+    "temp_avg": 78
+  },
+  {
+    "date": "2016-08-08",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 86,
+    "temp_celcius": 30,
+    "temp_avg": 78.5
+  },
+  {
+    "date": "2016-08-08",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 71,
+    "temp_celcius": 21.7,
+    "temp_avg": 78.5
+  },
+  {
+    "date": "2016-08-09",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 87,
+    "temp_celcius": 30.6,
+    "temp_avg": 79
+  },
+  {
+    "date": "2016-08-09",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 71,
+    "temp_celcius": 21.7,
+    "temp_avg": 79
+  },
+  {
+    "date": "2016-08-10",
+    "precipitation": 0.09,
+    "temp_type": "temp_max",
+    "temp": 86,
+    "temp_celcius": 30,
+    "temp_avg": 80.5
+  },
+  {
+    "date": "2016-08-10",
+    "precipitation": 0.09,
+    "temp_type": "temp_min",
+    "temp": 75,
+    "temp_celcius": 23.9,
+    "temp_avg": 80.5
+  },
+  {
+    "date": "2016-08-11",
+    "precipitation": 0.15,
+    "temp_type": "temp_max",
+    "temp": 91,
+    "temp_celcius": 32.8,
+    "temp_avg": 82.5
+  },
+  {
+    "date": "2016-08-11",
+    "precipitation": 0.15,
+    "temp_type": "temp_min",
+    "temp": 74,
+    "temp_celcius": 23.3,
+    "temp_avg": 82.5
+  },
+  {
+    "date": "2016-08-12",
+    "precipitation": 0.32,
+    "temp_type": "temp_max",
+    "temp": 93,
+    "temp_celcius": 33.9,
+    "temp_avg": 83
+  },
+  {
+    "date": "2016-08-12",
+    "precipitation": 0.32,
+    "temp_type": "temp_min",
+    "temp": 73,
+    "temp_celcius": 22.8,
+    "temp_avg": 83
+  },
+  {
+    "date": "2016-08-13",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 96,
+    "temp_celcius": 35.6,
+    "temp_avg": 88.5
+  },
+  {
+    "date": "2016-08-13",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 81,
+    "temp_celcius": 27.2,
+    "temp_avg": 88.5
+  },
+  {
+    "date": "2016-08-14",
+    "precipitation": 0.06,
+    "temp_type": "temp_max",
+    "temp": 94,
+    "temp_celcius": 34.4,
+    "temp_avg": 86
+  },
+  {
+    "date": "2016-08-14",
+    "precipitation": 0.06,
+    "temp_type": "temp_min",
+    "temp": 78,
+    "temp_celcius": 25.6,
+    "temp_avg": 86
+  },
+  {
+    "date": "2016-08-15",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 92,
+    "temp_celcius": 33.3,
+    "temp_avg": 84.5
+  },
+  {
+    "date": "2016-08-15",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 77,
+    "temp_celcius": 25,
+    "temp_avg": 84.5
+  },
+  {
+    "date": "2016-08-16",
+    "precipitation": 0.11,
+    "temp_type": "temp_max",
+    "temp": 87,
+    "temp_celcius": 30.6,
+    "temp_avg": 82.5
+  },
+  {
+    "date": "2016-08-16",
+    "precipitation": 0.11,
+    "temp_type": "temp_min",
+    "temp": 78,
+    "temp_celcius": 25.6,
+    "temp_avg": 82.5
+  },
+  {
+    "date": "2016-08-17",
+    "precipitation": 0.01,
+    "temp_type": "temp_max",
+    "temp": 85,
+    "temp_celcius": 29.4,
+    "temp_avg": 81
+  },
+  {
+    "date": "2016-08-17",
+    "precipitation": 0.01,
+    "temp_type": "temp_min",
+    "temp": 77,
+    "temp_celcius": 25,
+    "temp_avg": 81
+  },
+  {
+    "date": "2016-08-18",
+    "precipitation": 0.03,
+    "temp_type": "temp_max",
+    "temp": 85,
+    "temp_celcius": 29.4,
+    "temp_avg": 78.5
+  },
+  {
+    "date": "2016-08-18",
+    "precipitation": 0.03,
+    "temp_type": "temp_min",
+    "temp": 72,
+    "temp_celcius": 22.2,
+    "temp_avg": 78.5
+  },
+  {
+    "date": "2016-08-19",
+    "precipitation": 0.01,
+    "temp_type": "temp_max",
+    "temp": 88,
+    "temp_celcius": 31.1,
+    "temp_avg": 81
+  },
+  {
+    "date": "2016-08-19",
+    "precipitation": 0.01,
+    "temp_type": "temp_min",
+    "temp": 74,
+    "temp_celcius": 23.3,
+    "temp_avg": 81
+  },
+  {
+    "date": "2016-08-20",
+    "precipitation": 0.82,
+    "temp_type": "temp_max",
+    "temp": 83,
+    "temp_celcius": 28.3,
+    "temp_avg": 76.5
+  },
+  {
+    "date": "2016-08-20",
+    "precipitation": 0.82,
+    "temp_type": "temp_min",
+    "temp": 70,
+    "temp_celcius": 21.1,
+    "temp_avg": 76.5
+  },
+  {
+    "date": "2016-08-21",
+    "precipitation": 0.31,
+    "temp_type": "temp_max",
+    "temp": 86,
+    "temp_celcius": 30,
+    "temp_avg": 79.5
+  },
+  {
+    "date": "2016-08-21",
+    "precipitation": 0.31,
+    "temp_type": "temp_min",
+    "temp": 73,
+    "temp_celcius": 22.8,
+    "temp_avg": 79.5
+  },
+  {
+    "date": "2016-08-22",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 79,
+    "temp_celcius": 26.1,
+    "temp_avg": 72
+  },
+  {
+    "date": "2016-08-22",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 65,
+    "temp_celcius": 18.3,
+    "temp_avg": 72
+  },
+  {
+    "date": "2016-08-23",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 82,
+    "temp_celcius": 27.8,
+    "temp_avg": 71.5
+  },
+  {
+    "date": "2016-08-23",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 61,
+    "temp_celcius": 16.1,
+    "temp_avg": 71.5
+  },
+  {
+    "date": "2016-08-24",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 88,
+    "temp_celcius": 31.1,
+    "temp_avg": 78
+  },
+  {
+    "date": "2016-08-24",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 68,
+    "temp_celcius": 20,
+    "temp_avg": 78
+  },
+  {
+    "date": "2016-08-25",
+    "precipitation": 0.01,
+    "temp_type": "temp_max",
+    "temp": 86,
+    "temp_celcius": 30,
+    "temp_avg": 77.5
+  },
+  {
+    "date": "2016-08-25",
+    "precipitation": 0.01,
+    "temp_type": "temp_min",
+    "temp": 69,
+    "temp_celcius": 20.6,
+    "temp_avg": 77.5
+  },
+  {
+    "date": "2016-08-26",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 90,
+    "temp_celcius": 32.2,
+    "temp_avg": 82.5
+  },
+  {
+    "date": "2016-08-26",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 75,
+    "temp_celcius": 23.9,
+    "temp_avg": 82.5
+  },
+  {
+    "date": "2016-08-27",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 89,
+    "temp_celcius": 31.7,
+    "temp_avg": 81
+  },
+  {
+    "date": "2016-08-27",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 73,
+    "temp_celcius": 22.8,
+    "temp_avg": 81
+  },
+  {
+    "date": "2016-08-28",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 89,
+    "temp_celcius": 31.7,
+    "temp_avg": 80.5
+  },
+  {
+    "date": "2016-08-28",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 72,
+    "temp_celcius": 22.2,
+    "temp_avg": 80.5
+  },
+  {
+    "date": "2016-08-29",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 91,
+    "temp_celcius": 32.8,
+    "temp_avg": 82.5
+  },
+  {
+    "date": "2016-08-29",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 74,
+    "temp_celcius": 23.3,
+    "temp_avg": 82.5
+  },
+  {
+    "date": "2016-08-30",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 86,
+    "temp_celcius": 30,
+    "temp_avg": 77.5
+  },
+  {
+    "date": "2016-08-30",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 69,
+    "temp_celcius": 20.6,
+    "temp_avg": 77.5
+  },
+  {
+    "date": "2016-08-31",
+    "precipitation": "T",
+    "temp_type": "temp_max",
+    "temp": 89,
+    "temp_celcius": 31.7,
+    "temp_avg": 81.5
+  },
+  {
+    "date": "2016-08-31",
+    "precipitation": "T",
+    "temp_type": "temp_min",
+    "temp": 74,
+    "temp_celcius": 23.3,
+    "temp_avg": 81.5
+  },
+  {
+    "date": "2016-09-01",
+    "precipitation": 0.5,
+    "temp_type": "temp_max",
+    "temp": 79,
+    "temp_celcius": 26.1,
+    "temp_avg": 74
+  },
+  {
+    "date": "2016-09-01",
+    "precipitation": 0.5,
+    "temp_type": "temp_min",
+    "temp": 69,
+    "temp_celcius": 20.6,
+    "temp_avg": 74
+  },
+  {
+    "date": "2016-09-02",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 81,
+    "temp_celcius": 27.2,
+    "temp_avg": 73.5
+  },
+  {
+    "date": "2016-09-02",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 66,
+    "temp_celcius": 18.9,
+    "temp_avg": 73.5
+  },
+  {
+    "date": "2016-09-03",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 75,
+    "temp_celcius": 23.9,
+    "temp_avg": 70.5
+  },
+  {
+    "date": "2016-09-03",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 66,
+    "temp_celcius": 18.9,
+    "temp_avg": 70.5
+  },
+  {
+    "date": "2016-09-04",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 80,
+    "temp_celcius": 26.7,
+    "temp_avg": 72.5
+  },
+  {
+    "date": "2016-09-04",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 65,
+    "temp_celcius": 18.3,
+    "temp_avg": 72.5
+  },
+  {
+    "date": "2016-09-05",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 84,
+    "temp_celcius": 28.9,
+    "temp_avg": 74.5
+  },
+  {
+    "date": "2016-09-05",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 65,
+    "temp_celcius": 18.3,
+    "temp_avg": 74.5
+  },
+  {
+    "date": "2016-09-06",
+    "precipitation": "T",
+    "temp_type": "temp_max",
+    "temp": 80,
+    "temp_celcius": 26.7,
+    "temp_avg": 75.5
+  },
+  {
+    "date": "2016-09-06",
+    "precipitation": "T",
+    "temp_type": "temp_min",
+    "temp": 71,
+    "temp_celcius": 21.7,
+    "temp_avg": 75.5
+  },
+  {
+    "date": "2016-09-07",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 85,
+    "temp_celcius": 29.4,
+    "temp_avg": 78
+  },
+  {
+    "date": "2016-09-07",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 71,
+    "temp_celcius": 21.7,
+    "temp_avg": 78
+  },
+  {
+    "date": "2016-09-08",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 89,
+    "temp_celcius": 31.7,
+    "temp_avg": 80
+  },
+  {
+    "date": "2016-09-08",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 71,
+    "temp_celcius": 21.7,
+    "temp_avg": 80
+  },
+  {
+    "date": "2016-09-09",
+    "precipitation": 0.22,
+    "temp_type": "temp_max",
+    "temp": 91,
+    "temp_celcius": 32.8,
+    "temp_avg": 83
+  },
+  {
+    "date": "2016-09-09",
+    "precipitation": 0.22,
+    "temp_type": "temp_min",
+    "temp": 75,
+    "temp_celcius": 23.9,
+    "temp_avg": 83
+  },
+  {
+    "date": "2016-09-10",
+    "precipitation": "T",
+    "temp_type": "temp_max",
+    "temp": 90,
+    "temp_celcius": 32.2,
+    "temp_avg": 82
+  },
+  {
+    "date": "2016-09-10",
+    "precipitation": "T",
+    "temp_type": "temp_min",
+    "temp": 74,
+    "temp_celcius": 23.3,
+    "temp_avg": 82
+  },
+  {
+    "date": "2016-09-11",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 83,
+    "temp_celcius": 28.3,
+    "temp_avg": 75
+  },
+  {
+    "date": "2016-09-11",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 67,
+    "temp_celcius": 19.4,
+    "temp_avg": 75
+  },
+  {
+    "date": "2016-09-12",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 78,
+    "temp_celcius": 25.6,
+    "temp_avg": 70
+  },
+  {
+    "date": "2016-09-12",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 62,
+    "temp_celcius": 16.7,
+    "temp_avg": 70
+  },
+  {
+    "date": "2016-09-13",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 83,
+    "temp_celcius": 28.3,
+    "temp_avg": 73.5
+  },
+  {
+    "date": "2016-09-13",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 64,
+    "temp_celcius": 17.8,
+    "temp_avg": 73.5
+  },
+  {
+    "date": "2016-09-14",
+    "precipitation": 0.56,
+    "temp_type": "temp_max",
+    "temp": 91,
+    "temp_celcius": 32.8,
+    "temp_avg": 79
+  },
+  {
+    "date": "2016-09-14",
+    "precipitation": 0.56,
+    "temp_type": "temp_min",
+    "temp": 67,
+    "temp_celcius": 19.4,
+    "temp_avg": 79
+  },
+  {
+    "date": "2016-09-15",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 74,
+    "temp_celcius": 23.3,
+    "temp_avg": 67.5
+  },
+  {
+    "date": "2016-09-15",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 61,
+    "temp_celcius": 16.1,
+    "temp_avg": 67.5
+  },
+  {
+    "date": "2016-09-16",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 73,
+    "temp_celcius": 22.8,
+    "temp_avg": 67
+  },
+  {
+    "date": "2016-09-16",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 61,
+    "temp_celcius": 16.1,
+    "temp_avg": 67
+  },
+  {
+    "date": "2016-09-17",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 77,
+    "temp_celcius": 25,
+    "temp_avg": 68
+  },
+  {
+    "date": "2016-09-17",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 59,
+    "temp_celcius": 15,
+    "temp_avg": 68
+  },
+  {
+    "date": "2016-09-18",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 82,
+    "temp_celcius": 27.8,
+    "temp_avg": 76
+  },
+  {
+    "date": "2016-09-18",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 70,
+    "temp_celcius": 21.1,
+    "temp_avg": 76
+  },
+  {
+    "date": "2016-09-19",
+    "precipitation": 0.68,
+    "temp_type": "temp_max",
+    "temp": 76,
+    "temp_celcius": 24.4,
+    "temp_avg": 72.5
+  },
+  {
+    "date": "2016-09-19",
+    "precipitation": 0.68,
+    "temp_type": "temp_min",
+    "temp": 69,
+    "temp_celcius": 20.6,
+    "temp_avg": 72.5
+  },
+  {
+    "date": "2016-09-20",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 82,
+    "temp_celcius": 27.8,
+    "temp_avg": 75
+  },
+  {
+    "date": "2016-09-20",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 68,
+    "temp_celcius": 20,
+    "temp_avg": 75
+  },
+  {
+    "date": "2016-09-21",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 84,
+    "temp_celcius": 28.9,
+    "temp_avg": 76
+  },
+  {
+    "date": "2016-09-21",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 68,
+    "temp_celcius": 20,
+    "temp_avg": 76
+  },
+  {
+    "date": "2016-09-22",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 86,
+    "temp_celcius": 30,
+    "temp_avg": 75.5
+  },
+  {
+    "date": "2016-09-22",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 65,
+    "temp_celcius": 18.3,
+    "temp_avg": 75.5
+  },
+  {
+    "date": "2016-09-23",
+    "precipitation": 0.01,
+    "temp_type": "temp_max",
+    "temp": 87,
+    "temp_celcius": 30.6,
+    "temp_avg": 75.5
+  },
+  {
+    "date": "2016-09-23",
+    "precipitation": 0.01,
+    "temp_type": "temp_min",
+    "temp": 64,
+    "temp_celcius": 17.8,
+    "temp_avg": 75.5
+  },
+  {
+    "date": "2016-09-24",
+    "precipitation": 0.2,
+    "temp_type": "temp_max",
+    "temp": 71,
+    "temp_celcius": 21.7,
+    "temp_avg": 64.5
+  },
+  {
+    "date": "2016-09-24",
+    "precipitation": 0.2,
+    "temp_type": "temp_min",
+    "temp": 58,
+    "temp_celcius": 14.4,
+    "temp_avg": 64.5
+  },
+  {
+    "date": "2016-09-25",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 70,
+    "temp_celcius": 21.1,
+    "temp_avg": 62
+  },
+  {
+    "date": "2016-09-25",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 54,
+    "temp_celcius": 12.2,
+    "temp_avg": 62
+  },
+  {
+    "date": "2016-09-26",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 74,
+    "temp_celcius": 23.3,
+    "temp_avg": 64
+  },
+  {
+    "date": "2016-09-26",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 54,
+    "temp_celcius": 12.2,
+    "temp_avg": 64
+  },
+  {
+    "date": "2016-09-27",
+    "precipitation": 0.22,
+    "temp_type": "temp_max",
+    "temp": 74,
+    "temp_celcius": 23.3,
+    "temp_avg": 69
+  },
+  {
+    "date": "2016-09-27",
+    "precipitation": 0.22,
+    "temp_type": "temp_min",
+    "temp": 64,
+    "temp_celcius": 17.8,
+    "temp_avg": 69
+  },
+  {
+    "date": "2016-09-28",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 69,
+    "temp_celcius": 20.6,
+    "temp_avg": 62.5
+  },
+  {
+    "date": "2016-09-28",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 56,
+    "temp_celcius": 13.3,
+    "temp_avg": 62.5
+  },
+  {
+    "date": "2016-09-29",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 64,
+    "temp_celcius": 17.8,
+    "temp_avg": 60.5
+  },
+  {
+    "date": "2016-09-29",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 57,
+    "temp_celcius": 13.9,
+    "temp_avg": 60.5
+  },
+  {
+    "date": "2016-09-30",
+    "precipitation": 0.4,
+    "temp_type": "temp_max",
+    "temp": 59,
+    "temp_celcius": 15,
+    "temp_avg": 57.5
+  },
+  {
+    "date": "2016-09-30",
+    "precipitation": 0.4,
+    "temp_type": "temp_min",
+    "temp": 56,
+    "temp_celcius": 13.3,
+    "temp_avg": 57.5
+  },
+  {
+    "date": "2016-10-01",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 62,
+    "temp_celcius": 16.7,
+    "temp_avg": 59
+  },
+  {
+    "date": "2016-10-01",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 56,
+    "temp_celcius": 13.3,
+    "temp_avg": 59
+  },
+  {
+    "date": "2016-10-02",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 63,
+    "temp_celcius": 17.2,
+    "temp_avg": 60
+  },
+  {
+    "date": "2016-10-02",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 57,
+    "temp_celcius": 13.9,
+    "temp_avg": 60
+  },
+  {
+    "date": "2016-10-03",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 72,
+    "temp_celcius": 22.2,
+    "temp_avg": 66
+  },
+  {
+    "date": "2016-10-03",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 60,
+    "temp_celcius": 15.6,
+    "temp_avg": 66
+  },
+  {
+    "date": "2016-10-04",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 69,
+    "temp_celcius": 20.6,
+    "temp_avg": 64.5
+  },
+  {
+    "date": "2016-10-04",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 60,
+    "temp_celcius": 15.6,
+    "temp_avg": 64.5
+  },
+  {
+    "date": "2016-10-05",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 67,
+    "temp_celcius": 19.4,
+    "temp_avg": 60
+  },
+  {
+    "date": "2016-10-05",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 53,
+    "temp_celcius": 11.7,
+    "temp_avg": 60
+  },
+  {
+    "date": "2016-10-06",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 73,
+    "temp_celcius": 22.8,
+    "temp_avg": 64
+  },
+  {
+    "date": "2016-10-06",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 55,
+    "temp_celcius": 12.8,
+    "temp_avg": 64
+  },
+  {
+    "date": "2016-10-07",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 75,
+    "temp_celcius": 23.9,
+    "temp_avg": 66
+  },
+  {
+    "date": "2016-10-07",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 57,
+    "temp_celcius": 13.9,
+    "temp_avg": 66
+  },
+  {
+    "date": "2016-10-08",
+    "precipitation": 0.23,
+    "temp_type": "temp_max",
+    "temp": 68,
+    "temp_celcius": 20,
+    "temp_avg": 63
+  },
+  {
+    "date": "2016-10-08",
+    "precipitation": 0.23,
+    "temp_type": "temp_min",
+    "temp": 58,
+    "temp_celcius": 14.4,
+    "temp_avg": 63
+  },
+  {
+    "date": "2016-10-09",
+    "precipitation": 0.55,
+    "temp_type": "temp_max",
+    "temp": 65,
+    "temp_celcius": 18.3,
+    "temp_avg": 58
+  },
+  {
+    "date": "2016-10-09",
+    "precipitation": 0.55,
+    "temp_type": "temp_min",
+    "temp": 51,
+    "temp_celcius": 10.6,
+    "temp_avg": 58
+  },
+  {
+    "date": "2016-10-10",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 64,
+    "temp_celcius": 17.8,
+    "temp_avg": 55.5
+  },
+  {
+    "date": "2016-10-10",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 47,
+    "temp_celcius": 8.3,
+    "temp_avg": 55.5
+  },
+  {
+    "date": "2016-10-11",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 63,
+    "temp_celcius": 17.2,
+    "temp_avg": 54.5
+  },
+  {
+    "date": "2016-10-11",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 46,
+    "temp_celcius": 7.8,
+    "temp_avg": 54.5
+  },
+  {
+    "date": "2016-10-12",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 66,
+    "temp_celcius": 18.9,
+    "temp_avg": 59.5
+  },
+  {
+    "date": "2016-10-12",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 53,
+    "temp_celcius": 11.7,
+    "temp_avg": 59.5
+  },
+  {
+    "date": "2016-10-13",
+    "precipitation": "T",
+    "temp_type": "temp_max",
+    "temp": 67,
+    "temp_celcius": 19.4,
+    "temp_avg": 60
+  },
+  {
+    "date": "2016-10-13",
+    "precipitation": "T",
+    "temp_type": "temp_min",
+    "temp": 53,
+    "temp_celcius": 11.7,
+    "temp_avg": 60
+  },
+  {
+    "date": "2016-10-14",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 62,
+    "temp_celcius": 16.7,
+    "temp_avg": 54.5
+  },
+  {
+    "date": "2016-10-14",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 47,
+    "temp_celcius": 8.3,
+    "temp_avg": 54.5
+  },
+  {
+    "date": "2016-10-15",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 65,
+    "temp_celcius": 18.3,
+    "temp_avg": 55
+  },
+  {
+    "date": "2016-10-15",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 45,
+    "temp_celcius": 7.2,
+    "temp_avg": 55
+  },
+  {
+    "date": "2016-10-16",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 69,
+    "temp_celcius": 20.6,
+    "temp_avg": 61
+  },
+  {
+    "date": "2016-10-16",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 53,
+    "temp_celcius": 11.7,
+    "temp_avg": 61
+  },
+  {
+    "date": "2016-10-17",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 81,
+    "temp_celcius": 27.2,
+    "temp_avg": 72
+  },
+  {
+    "date": "2016-10-17",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 63,
+    "temp_celcius": 17.2,
+    "temp_avg": 72
+  },
+  {
+    "date": "2016-10-18",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 81,
+    "temp_celcius": 27.2,
+    "temp_avg": 74
+  },
+  {
+    "date": "2016-10-18",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 67,
+    "temp_celcius": 19.4,
+    "temp_avg": 74
+  },
+  {
+    "date": "2016-10-19",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 85,
+    "temp_celcius": 29.4,
+    "temp_avg": 75
+  },
+  {
+    "date": "2016-10-19",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 65,
+    "temp_celcius": 18.3,
+    "temp_avg": 75
+  },
+  {
+    "date": "2016-10-20",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 70,
+    "temp_celcius": 21.1,
+    "temp_avg": 66
+  },
+  {
+    "date": "2016-10-20",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 62,
+    "temp_celcius": 16.7,
+    "temp_avg": 66
+  },
+  {
+    "date": "2016-10-21",
+    "precipitation": 1.11,
+    "temp_type": "temp_max",
+    "temp": 69,
+    "temp_celcius": 20.6,
+    "temp_avg": 63
+  },
+  {
+    "date": "2016-10-21",
+    "precipitation": 1.11,
+    "temp_type": "temp_min",
+    "temp": 57,
+    "temp_celcius": 13.9,
+    "temp_avg": 63
+  },
+  {
+    "date": "2016-10-22",
+    "precipitation": 0.29,
+    "temp_type": "temp_max",
+    "temp": 57,
+    "temp_celcius": 13.9,
+    "temp_avg": 52
+  },
+  {
+    "date": "2016-10-22",
+    "precipitation": 0.29,
+    "temp_type": "temp_min",
+    "temp": 47,
+    "temp_celcius": 8.3,
+    "temp_avg": 52
+  },
+  {
+    "date": "2016-10-23",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 61,
+    "temp_celcius": 16.1,
+    "temp_avg": 53
+  },
+  {
+    "date": "2016-10-23",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 45,
+    "temp_celcius": 7.2,
+    "temp_avg": 53
+  },
+  {
+    "date": "2016-10-24",
+    "precipitation": "T",
+    "temp_type": "temp_max",
+    "temp": 62,
+    "temp_celcius": 16.7,
+    "temp_avg": 54.5
+  },
+  {
+    "date": "2016-10-24",
+    "precipitation": "T",
+    "temp_type": "temp_min",
+    "temp": 47,
+    "temp_celcius": 8.3,
+    "temp_avg": 54.5
+  },
+  {
+    "date": "2016-10-25",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 52,
+    "temp_celcius": 11.1,
+    "temp_avg": 47.5
+  },
+  {
+    "date": "2016-10-25",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 43,
+    "temp_celcius": 6.1,
+    "temp_avg": 47.5
+  },
+  {
+    "date": "2016-10-26",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 51,
+    "temp_celcius": 10.6,
+    "temp_avg": 44.5
+  },
+  {
+    "date": "2016-10-26",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 38,
+    "temp_celcius": 3.3,
+    "temp_avg": 44.5
+  },
+  {
+    "date": "2016-10-27",
+    "precipitation": 1.41,
+    "temp_type": "temp_max",
+    "temp": 55,
+    "temp_celcius": 12.8,
+    "temp_avg": 47.5
+  },
+  {
+    "date": "2016-10-27",
+    "precipitation": 1.41,
+    "temp_type": "temp_min",
+    "temp": 40,
+    "temp_celcius": 4.4,
+    "temp_avg": 47.5
+  },
+  {
+    "date": "2016-10-28",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 51,
+    "temp_celcius": 10.6,
+    "temp_avg": 46.5
+  },
+  {
+    "date": "2016-10-28",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 42,
+    "temp_celcius": 5.6,
+    "temp_avg": 46.5
+  },
+  {
+    "date": "2016-10-29",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 64,
+    "temp_celcius": 17.8,
+    "temp_avg": 51.5
+  },
+  {
+    "date": "2016-10-29",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 39,
+    "temp_celcius": 3.9,
+    "temp_avg": 51.5
+  },
+  {
+    "date": "2016-10-30",
+    "precipitation": 0.56,
+    "temp_type": "temp_max",
+    "temp": 76,
+    "temp_celcius": 24.4,
+    "temp_avg": 65
+  },
+  {
+    "date": "2016-10-30",
+    "precipitation": 0.56,
+    "temp_type": "temp_min",
+    "temp": 54,
+    "temp_celcius": 12.2,
+    "temp_avg": 65
+  },
+  {
+    "date": "2016-10-31",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 54,
+    "temp_celcius": 12.2,
+    "temp_avg": 49
+  },
+  {
+    "date": "2016-10-31",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 44,
+    "temp_celcius": 6.7,
+    "temp_avg": 49
+  },
+  {
+    "date": "2016-11-01",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 58,
+    "temp_celcius": 14.4,
+    "temp_avg": 49
+  },
+  {
+    "date": "2016-11-01",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 40,
+    "temp_celcius": 4.4,
+    "temp_avg": 49
+  },
+  {
+    "date": "2016-11-02",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 70,
+    "temp_celcius": 21.1,
+    "temp_avg": 62
+  },
+  {
+    "date": "2016-11-02",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 54,
+    "temp_celcius": 12.2,
+    "temp_avg": 62
+  },
+  {
+    "date": "2016-11-03",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 72,
+    "temp_celcius": 22.2,
+    "temp_avg": 64.5
+  },
+  {
+    "date": "2016-11-03",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 57,
+    "temp_celcius": 13.9,
+    "temp_avg": 64.5
+  },
+  {
+    "date": "2016-11-04",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 61,
+    "temp_celcius": 16.1,
+    "temp_avg": 54
+  },
+  {
+    "date": "2016-11-04",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 47,
+    "temp_celcius": 8.3,
+    "temp_avg": 54
+  },
+  {
+    "date": "2016-11-05",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 62,
+    "temp_celcius": 16.7,
+    "temp_avg": 53
+  },
+  {
+    "date": "2016-11-05",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 44,
+    "temp_celcius": 6.7,
+    "temp_avg": 53
+  },
+  {
+    "date": "2016-11-06",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 59,
+    "temp_celcius": 15,
+    "temp_avg": 52
+  },
+  {
+    "date": "2016-11-06",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 45,
+    "temp_celcius": 7.2,
+    "temp_avg": 52
+  },
+  {
+    "date": "2016-11-07",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 53,
+    "temp_celcius": 11.7,
+    "temp_avg": 47
+  },
+  {
+    "date": "2016-11-07",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 41,
+    "temp_celcius": 5,
+    "temp_avg": 47
+  },
+  {
+    "date": "2016-11-08",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 66,
+    "temp_celcius": 18.9,
+    "temp_avg": 53.5
+  },
+  {
+    "date": "2016-11-08",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 41,
+    "temp_celcius": 5,
+    "temp_avg": 53.5
+  },
+  {
+    "date": "2016-11-09",
+    "precipitation": 0.06,
+    "temp_type": "temp_max",
+    "temp": 59,
+    "temp_celcius": 15,
+    "temp_avg": 54
+  },
+  {
+    "date": "2016-11-09",
+    "precipitation": 0.06,
+    "temp_type": "temp_min",
+    "temp": 49,
+    "temp_celcius": 9.4,
+    "temp_avg": 54
+  },
+  {
+    "date": "2016-11-10",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 56,
+    "temp_celcius": 13.3,
+    "temp_avg": 48
+  },
+  {
+    "date": "2016-11-10",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 40,
+    "temp_celcius": 4.4,
+    "temp_avg": 48
+  },
+  {
+    "date": "2016-11-11",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 63,
+    "temp_celcius": 17.2,
+    "temp_avg": 52
+  },
+  {
+    "date": "2016-11-11",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 41,
+    "temp_celcius": 5,
+    "temp_avg": 52
+  },
+  {
+    "date": "2016-11-12",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 50,
+    "temp_celcius": 10,
+    "temp_avg": 43.5
+  },
+  {
+    "date": "2016-11-12",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 37,
+    "temp_celcius": 2.8,
+    "temp_avg": 43.5
+  },
+  {
+    "date": "2016-11-13",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 61,
+    "temp_celcius": 16.1,
+    "temp_avg": 51
+  },
+  {
+    "date": "2016-11-13",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 41,
+    "temp_celcius": 5,
+    "temp_avg": 51
+  },
+  {
+    "date": "2016-11-14",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 62,
+    "temp_celcius": 16.7,
+    "temp_avg": 54
+  },
+  {
+    "date": "2016-11-14",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 46,
+    "temp_celcius": 7.8,
+    "temp_avg": 54
+  },
+  {
+    "date": "2016-11-15",
+    "precipitation": 1.81,
+    "temp_type": "temp_max",
+    "temp": 56,
+    "temp_celcius": 13.3,
+    "temp_avg": 51.5
+  },
+  {
+    "date": "2016-11-15",
+    "precipitation": 1.81,
+    "temp_type": "temp_min",
+    "temp": 47,
+    "temp_celcius": 8.3,
+    "temp_avg": 51.5
+  },
+  {
+    "date": "2016-11-16",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 61,
+    "temp_celcius": 16.1,
+    "temp_avg": 53
+  },
+  {
+    "date": "2016-11-16",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 45,
+    "temp_celcius": 7.2,
+    "temp_avg": 53
+  },
+  {
+    "date": "2016-11-17",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 61,
+    "temp_celcius": 16.1,
+    "temp_avg": 55
+  },
+  {
+    "date": "2016-11-17",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 49,
+    "temp_celcius": 9.4,
+    "temp_avg": 55
+  },
+  {
+    "date": "2016-11-18",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 64,
+    "temp_celcius": 17.8,
+    "temp_avg": 54
+  },
+  {
+    "date": "2016-11-18",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 44,
+    "temp_celcius": 6.7,
+    "temp_avg": 54
+  },
+  {
+    "date": "2016-11-19",
+    "precipitation": 0.25,
+    "temp_type": "temp_max",
+    "temp": 63,
+    "temp_celcius": 17.2,
+    "temp_avg": 50
+  },
+  {
+    "date": "2016-11-19",
+    "precipitation": 0.25,
+    "temp_type": "temp_min",
+    "temp": 37,
+    "temp_celcius": 2.8,
+    "temp_avg": 50
+  },
+  {
+    "date": "2016-11-20",
+    "precipitation": 0.31,
+    "temp_type": "temp_max",
+    "temp": 42,
+    "temp_celcius": 5.6,
+    "temp_avg": 38
+  },
+  {
+    "date": "2016-11-20",
+    "precipitation": 0.31,
+    "temp_type": "temp_min",
+    "temp": 34,
+    "temp_celcius": 1.1,
+    "temp_avg": 38
+  },
+  {
+    "date": "2016-11-21",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 41,
+    "temp_celcius": 5,
+    "temp_avg": 38.5
+  },
+  {
+    "date": "2016-11-21",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 36,
+    "temp_celcius": 2.2,
+    "temp_avg": 38.5
+  },
+  {
+    "date": "2016-11-22",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 41,
+    "temp_celcius": 5,
+    "temp_avg": 39
+  },
+  {
+    "date": "2016-11-22",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 37,
+    "temp_celcius": 2.8,
+    "temp_avg": 39
+  },
+  {
+    "date": "2016-11-23",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 45,
+    "temp_celcius": 7.2,
+    "temp_avg": 40
+  },
+  {
+    "date": "2016-11-23",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 35,
+    "temp_celcius": 1.7,
+    "temp_avg": 40
+  },
+  {
+    "date": "2016-11-24",
+    "precipitation": 0.03,
+    "temp_type": "temp_max",
+    "temp": 48,
+    "temp_celcius": 8.9,
+    "temp_avg": 43
+  },
+  {
+    "date": "2016-11-24",
+    "precipitation": 0.03,
+    "temp_type": "temp_min",
+    "temp": 38,
+    "temp_celcius": 3.3,
+    "temp_avg": 43
+  },
+  {
+    "date": "2016-11-25",
+    "precipitation": 0.02,
+    "temp_type": "temp_max",
+    "temp": 54,
+    "temp_celcius": 12.2,
+    "temp_avg": 49.5
+  },
+  {
+    "date": "2016-11-25",
+    "precipitation": 0.02,
+    "temp_type": "temp_min",
+    "temp": 45,
+    "temp_celcius": 7.2,
+    "temp_avg": 49.5
+  },
+  {
+    "date": "2016-11-26",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 50,
+    "temp_celcius": 10,
+    "temp_avg": 45
+  },
+  {
+    "date": "2016-11-26",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 40,
+    "temp_celcius": 4.4,
+    "temp_avg": 45
+  },
+  {
+    "date": "2016-11-27",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 50,
+    "temp_celcius": 10,
+    "temp_avg": 44.5
+  },
+  {
+    "date": "2016-11-27",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 39,
+    "temp_celcius": 3.9,
+    "temp_avg": 44.5
+  },
+  {
+    "date": "2016-11-28",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 52,
+    "temp_celcius": 11.1,
+    "temp_avg": 45
+  },
+  {
+    "date": "2016-11-28",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 38,
+    "temp_celcius": 3.3,
+    "temp_avg": 45
+  },
+  {
+    "date": "2016-11-29",
+    "precipitation": 2.2,
+    "temp_type": "temp_max",
+    "temp": 60,
+    "temp_celcius": 15.6,
+    "temp_avg": 55.5
+  },
+  {
+    "date": "2016-11-29",
+    "precipitation": 2.2,
+    "temp_type": "temp_min",
+    "temp": 51,
+    "temp_celcius": 10.6,
+    "temp_avg": 55.5
+  },
+  {
+    "date": "2016-11-30",
+    "precipitation": 0.73,
+    "temp_type": "temp_max",
+    "temp": 58,
+    "temp_celcius": 14.4,
+    "temp_avg": 54
+  },
+  {
+    "date": "2016-11-30",
+    "precipitation": 0.73,
+    "temp_type": "temp_min",
+    "temp": 50,
+    "temp_celcius": 10,
+    "temp_avg": 54
+  },
+  {
+    "date": "2016-12-01",
+    "precipitation": 0.07,
+    "temp_type": "temp_max",
+    "temp": 54,
+    "temp_celcius": 12.2,
+    "temp_avg": 48
+  },
+  {
+    "date": "2016-12-01",
+    "precipitation": 0.07,
+    "temp_type": "temp_min",
+    "temp": 42,
+    "temp_celcius": 5.6,
+    "temp_avg": 48
+  },
+  {
+    "date": "2016-12-02",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 51,
+    "temp_celcius": 10.6,
+    "temp_avg": 45.5
+  },
+  {
+    "date": "2016-12-02",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 40,
+    "temp_celcius": 4.4,
+    "temp_avg": 45.5
+  },
+  {
+    "date": "2016-12-03",
+    "precipitation": "T",
+    "temp_type": "temp_max",
+    "temp": 47,
+    "temp_celcius": 8.3,
+    "temp_avg": 44
+  },
+  {
+    "date": "2016-12-03",
+    "precipitation": "T",
+    "temp_type": "temp_min",
+    "temp": 41,
+    "temp_celcius": 5,
+    "temp_avg": 44
+  },
+  {
+    "date": "2016-12-04",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 47,
+    "temp_celcius": 8.3,
+    "temp_avg": 43
+  },
+  {
+    "date": "2016-12-04",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 39,
+    "temp_celcius": 3.9,
+    "temp_avg": 43
+  },
+  {
+    "date": "2016-12-05",
+    "precipitation": 0.19,
+    "temp_type": "temp_max",
+    "temp": 49,
+    "temp_celcius": 9.4,
+    "temp_avg": 43.5
+  },
+  {
+    "date": "2016-12-05",
+    "precipitation": 0.19,
+    "temp_type": "temp_min",
+    "temp": 38,
+    "temp_celcius": 3.3,
+    "temp_avg": 43.5
+  },
+  {
+    "date": "2016-12-06",
+    "precipitation": 0.35,
+    "temp_type": "temp_max",
+    "temp": 46,
+    "temp_celcius": 7.8,
+    "temp_avg": 41.5
+  },
+  {
+    "date": "2016-12-06",
+    "precipitation": 0.35,
+    "temp_type": "temp_min",
+    "temp": 37,
+    "temp_celcius": 2.8,
+    "temp_avg": 41.5
+  },
+  {
+    "date": "2016-12-07",
+    "precipitation": 0.09,
+    "temp_type": "temp_max",
+    "temp": 46,
+    "temp_celcius": 7.8,
+    "temp_avg": 43
+  },
+  {
+    "date": "2016-12-07",
+    "precipitation": 0.09,
+    "temp_type": "temp_min",
+    "temp": 40,
+    "temp_celcius": 4.4,
+    "temp_avg": 43
+  },
+  {
+    "date": "2016-12-08",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 45,
+    "temp_celcius": 7.2,
+    "temp_avg": 40
+  },
+  {
+    "date": "2016-12-08",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 35,
+    "temp_celcius": 1.7,
+    "temp_avg": 40
+  },
+  {
+    "date": "2016-12-09",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 39,
+    "temp_celcius": 3.9,
+    "temp_avg": 34
+  },
+  {
+    "date": "2016-12-09",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 29,
+    "temp_celcius": -1.7,
+    "temp_avg": 34
+  },
+  {
+    "date": "2016-12-10",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 35,
+    "temp_celcius": 1.7,
+    "temp_avg": 31.5
+  },
+  {
+    "date": "2016-12-10",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 28,
+    "temp_celcius": -2.2,
+    "temp_avg": 31.5
+  },
+  {
+    "date": "2016-12-11",
+    "precipitation": 0.03,
+    "temp_type": "temp_max",
+    "temp": 35,
+    "temp_celcius": 1.7,
+    "temp_avg": 31.5
+  },
+  {
+    "date": "2016-12-11",
+    "precipitation": 0.03,
+    "temp_type": "temp_min",
+    "temp": 28,
+    "temp_celcius": -2.2,
+    "temp_avg": 31.5
+  },
+  {
+    "date": "2016-12-12",
+    "precipitation": 0.5,
+    "temp_type": "temp_max",
+    "temp": 46,
+    "temp_celcius": 7.8,
+    "temp_avg": 40
+  },
+  {
+    "date": "2016-12-12",
+    "precipitation": 0.5,
+    "temp_type": "temp_min",
+    "temp": 34,
+    "temp_celcius": 1.1,
+    "temp_avg": 40
+  },
+  {
+    "date": "2016-12-13",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 43,
+    "temp_celcius": 6.1,
+    "temp_avg": 39
+  },
+  {
+    "date": "2016-12-13",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 35,
+    "temp_celcius": 1.7,
+    "temp_avg": 39
+  },
+  {
+    "date": "2016-12-14",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 42,
+    "temp_celcius": 5.6,
+    "temp_avg": 38
+  },
+  {
+    "date": "2016-12-14",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 34,
+    "temp_celcius": 1.1,
+    "temp_avg": 38
+  },
+  {
+    "date": "2016-12-15",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 34,
+    "temp_celcius": 1.1,
+    "temp_avg": 26.5
+  },
+  {
+    "date": "2016-12-15",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 19,
+    "temp_celcius": -7.2,
+    "temp_avg": 26.5
+  },
+  {
+    "date": "2016-12-16",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 27,
+    "temp_celcius": -2.8,
+    "temp_avg": 22
+  },
+  {
+    "date": "2016-12-16",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 17,
+    "temp_celcius": -8.3,
+    "temp_avg": 22
+  },
+  {
+    "date": "2016-12-17",
+    "precipitation": 0.73,
+    "temp_type": "temp_max",
+    "temp": 39,
+    "temp_celcius": 3.9,
+    "temp_avg": 31.5
+  },
+  {
+    "date": "2016-12-17",
+    "precipitation": 0.73,
+    "temp_type": "temp_min",
+    "temp": 24,
+    "temp_celcius": -4.4,
+    "temp_avg": 31.5
+  },
+  {
+    "date": "2016-12-18",
+    "precipitation": 0.04,
+    "temp_type": "temp_max",
+    "temp": 58,
+    "temp_celcius": 14.4,
+    "temp_avg": 44.5
+  },
+  {
+    "date": "2016-12-18",
+    "precipitation": 0.04,
+    "temp_type": "temp_min",
+    "temp": 31,
+    "temp_celcius": -0.6,
+    "temp_avg": 44.5
+  },
+  {
+    "date": "2016-12-19",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 31,
+    "temp_celcius": -0.6,
+    "temp_avg": 27
+  },
+  {
+    "date": "2016-12-19",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 23,
+    "temp_celcius": -5,
+    "temp_avg": 27
+  },
+  {
+    "date": "2016-12-20",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 33,
+    "temp_celcius": 0.6,
+    "temp_avg": 26.5
+  },
+  {
+    "date": "2016-12-20",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 20,
+    "temp_celcius": -6.7,
+    "temp_avg": 26.5
+  },
+  {
+    "date": "2016-12-21",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 40,
+    "temp_celcius": 4.4,
+    "temp_avg": 35
+  },
+  {
+    "date": "2016-12-21",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 30,
+    "temp_celcius": -1.1,
+    "temp_avg": 35
+  },
+  {
+    "date": "2016-12-22",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 49,
+    "temp_celcius": 9.4,
+    "temp_avg": 43
+  },
+  {
+    "date": "2016-12-22",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 37,
+    "temp_celcius": 2.8,
+    "temp_avg": 43
+  },
+  {
+    "date": "2016-12-23",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 47,
+    "temp_celcius": 8.3,
+    "temp_avg": 42.5
+  },
+  {
+    "date": "2016-12-23",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 38,
+    "temp_celcius": 3.3,
+    "temp_avg": 42.5
+  },
+  {
+    "date": "2016-12-24",
+    "precipitation": 0.47,
+    "temp_type": "temp_max",
+    "temp": 47,
+    "temp_celcius": 8.3,
+    "temp_avg": 42.5
+  },
+  {
+    "date": "2016-12-24",
+    "precipitation": 0.47,
+    "temp_type": "temp_min",
+    "temp": 38,
+    "temp_celcius": 3.3,
+    "temp_avg": 42.5
+  },
+  {
+    "date": "2016-12-25",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 50,
+    "temp_celcius": 10,
+    "temp_avg": 43
+  },
+  {
+    "date": "2016-12-25",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 36,
+    "temp_celcius": 2.2,
+    "temp_avg": 43
+  },
+  {
+    "date": "2016-12-26",
+    "precipitation": 0.02,
+    "temp_type": "temp_max",
+    "temp": 50,
+    "temp_celcius": 10,
+    "temp_avg": 41.5
+  },
+  {
+    "date": "2016-12-26",
+    "precipitation": 0.02,
+    "temp_type": "temp_min",
+    "temp": 33,
+    "temp_celcius": 0.6,
+    "temp_avg": 41.5
+  },
+  {
+    "date": "2016-12-27",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 60,
+    "temp_celcius": 15.6,
+    "temp_avg": 50
+  },
+  {
+    "date": "2016-12-27",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 40,
+    "temp_celcius": 4.4,
+    "temp_avg": 50
+  },
+  {
+    "date": "2016-12-28",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 40,
+    "temp_celcius": 4.4,
+    "temp_avg": 37
+  },
+  {
+    "date": "2016-12-28",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 34,
+    "temp_celcius": 1.1,
+    "temp_avg": 37
+  },
+  {
+    "date": "2016-12-29",
+    "precipitation": 0.39,
+    "temp_type": "temp_max",
+    "temp": 46,
+    "temp_celcius": 7.8,
+    "temp_avg": 39.5
+  },
+  {
+    "date": "2016-12-29",
+    "precipitation": 0.39,
+    "temp_type": "temp_min",
+    "temp": 33,
+    "temp_celcius": 0.6,
+    "temp_avg": 39.5
+  },
+  {
+    "date": "2016-12-30",
+    "precipitation": 0.01,
+    "temp_type": "temp_max",
+    "temp": 40,
+    "temp_celcius": 4.4,
+    "temp_avg": 36.5
+  },
+  {
+    "date": "2016-12-30",
+    "precipitation": 0.01,
+    "temp_type": "temp_min",
+    "temp": 33,
+    "temp_celcius": 0.6,
+    "temp_avg": 36.5
+  },
+  {
+    "date": "2016-12-31",
+    "precipitation": 0,
+    "temp_type": "temp_max",
+    "temp": 44,
+    "temp_celcius": 6.7,
+    "temp_avg": 37.5
+  },
+  {
+    "date": "2016-12-31",
+    "precipitation": 0,
+    "temp_type": "temp_min",
+    "temp": 31,
+    "temp_celcius": -0.6,
+    "temp_avg": 37.5
+  }
+]

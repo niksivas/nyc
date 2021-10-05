@@ -1,0 +1,92 @@
+[
+  {
+    "borough": "Bronx",
+    "roomtype": "Private",
+    "sum_amount": 721
+  },
+  {
+    "borough": "Bronx",
+    "roomtype": "Entire",
+    "sum_amount": 417
+  },
+  {
+    "borough": "Bronx",
+    "roomtype": "Shared",
+    "sum_amount": 47
+  },
+  {
+    "borough": "Brooklyn",
+    "roomtype": "Private",
+    "sum_amount": 8973
+  },
+  {
+    "borough": "Brooklyn",
+    "roomtype": "Entire",
+    "sum_amount": 8936
+  },
+  {
+    "borough": "Brooklyn",
+    "roomtype": "Shared",
+    "sum_amount": 327
+  },
+  {
+    "borough": "Brooklyn",
+    "roomtype": "Hotel",
+    "sum_amount": 27
+  },
+  {
+    "borough": "Manhattan",
+    "roomtype": "Private",
+    "sum_amount": 7504
+  },
+  {
+    "borough": "Manhattan",
+    "roomtype": "Entire",
+    "sum_amount": 11993
+  },
+  {
+    "borough": "Manhattan",
+    "roomtype": "Shared",
+    "sum_amount": 389
+  },
+  {
+    "borough": "Manhattan",
+    "roomtype": "Hotel",
+    "sum_amount": 350
+  },
+  {
+    "borough": "Queens",
+    "roomtype": "Private",
+    "sum_amount": 3496
+  },
+  {
+    "borough": "Queens",
+    "roomtype": "Entire",
+    "sum_amount": 2057
+  },
+  {
+    "borough": "Queens",
+    "roomtype": "Shared",
+    "sum_amount": 177
+  },
+  {
+    "borough": "Queens",
+    "roomtype": "Hotel",
+    "sum_amount": 16
+  },
+  {
+    "borough": "Staten",
+    "roomtype": "Private",
+    "sum_amount": 148
+  },
+  {
+    "borough": "Staten",
+    "roomtype": "Entire",
+    "sum_amount": 174
+  },
+  {
+    "borough": "Staten",
+    "roomtype": "Shared",
+    "sum_amount": 4
+  }
+]

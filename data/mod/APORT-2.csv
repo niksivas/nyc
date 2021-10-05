@@ -1,0 +1,12 @@
+﻿iata,name,city,country,latitude,longitude,count
+LHR,London Heathrow Airport,London,United Kingdom,55.378051,-3.435973,1259
+PEK,Beijing Capital International Airport,Beijing,China,35.86166,104.195397,1107
+YUL,Montreal / Pierre Elliott Trudeau International Airport,Montreal,Canada,56.130366,-106.346771,1005
+GRU,Guarulhos - Governador AndrÃ© Franco Montoro International Airport,Sao Paulo,Brazil,-14.235004,-51.92528,906
+CDG,Charles de Gaulle International Airport,Paris,France,46.227638,2.213749,814
+SYD,Sydney Kingsford Smith International Airport,Sydney,Australia,-25.274398,133.775136,714
+FRA,Frankfurt am Main Airport,Frankfurt am Main,Germany,51.165691,10.451526,613
+FCO,Leonardo da Vinciâ€“Fiumicino Airport,Rome,Italy,41.87194,12.56738,591
+BCN,Barcelona International Airport,Barcelona,Spain,40.463667,-3.74922,517
+MEX,Licenciado Benito Juarez International Airport,Mexico City,Mexico,23.634501,-102.552784,488
+JFK,John F Kennedy International Airport,New York,United States,43.299428,-74.217933,

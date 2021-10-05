@@ -1,0 +1,22 @@
+﻿iata,name,city,country,latitude,longitude,count
+LHR,London Heathrow Airport,London,United Kingdom,55.378051,-3.435973,1259
+PEK,Beijing Capital International Airport,Beijing,China,35.86166,104.195397,1107
+YUL,Montreal / Pierre Elliott Trudeau International Airport,Montreal,Canada,56.130366,-106.346771,1005
+GRU,Guarulhos - Governador AndrÃ© Franco Montoro International Airport,Sao Paulo,Brazil,-14.235004,-51.92528,906
+CDG,Charles de Gaulle International Airport,Paris,France,46.227638,2.213749,814
+SYD,Sydney Kingsford Smith International Airport,Sydney,Australia,-25.274398,133.775136,714
+FRA,Frankfurt am Main Airport,Frankfurt am Main,Germany,51.165691,10.451526,613
+FCO,Leonardo da Vinciâ€“Fiumicino Airport,Rome,Italy,41.87194,12.56738,591
+BCN,Barcelona International Airport,Barcelona,Spain,40.463667,-3.74922,517
+MEX,Licenciado Benito Juarez International Airport,Mexico City,Mexico,23.634501,-102.552784,488
+ICN,Incheon International Airport,Seoul,South Korea,35.907757,127.766922,400
+EZE,Ministro Pistarini International Airport,Buenos Aires,Argentina,-38.416097,-63.616672,401
+DEL,Indira Gandhi International Airport,New Delhi,India,20.593684,78.96288,358
+NRT,Narita International Airport,Tokyo,Japan,36.204824,138.252924,341
+DUB,Dublin Airport,Dublin,Ireland,53.41291,-8.24389,292
+BOG,El Dorado International Airport,Bogota,Colombia,4.570868,-74.297333,245
+AMS,Amsterdam Airport Schiphol,Amsterdam,Netherlands,52.132633,5.291266,245
+ZRH,ZÃ¼rich Airport,Zurich,Switzerland,46.818188,8.227512,228
+ARN,Stockholm-Arlanda Airport,Stockholm,Sweden,60.128161,18.643501,210
+TLV,Ben Gurion International Airport,Tel Aviv,Israel,31.046051,34.851612,197
+JFK,John F Kennedy International Airport,New York,United States,43.299428,-74.217933,10931

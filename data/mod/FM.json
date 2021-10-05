@@ -1,0 +1,491 @@
+[
+  {
+    "id": 1
+  },
+  {
+    "id": 2,
+    "name": "Brooklyn",
+    "parent": 1,
+    "total": 43
+  },
+  {
+    "id": 3,
+    "name": "Bronx",
+    "parent": 1,
+    "total": 24
+  },
+  {
+    "id": 4,
+    "name": "Queens",
+    "parent": 1,
+    "total": 5
+  },
+  {
+    "id": 5,
+    "name": "Staten Island",
+    "parent": 1,
+    "total": 2
+  },
+  {
+    "id": 6,
+    "name": "Manhattan",
+    "parent": 1,
+    "total": 1
+  },
+  {
+    "id": 7,
+    "name": "Tuesday",
+    "parent": 2,
+    "total": 2
+  },
+  {
+    "id": 8,
+    "name": "Wednesday",
+    "parent": 2,
+    "total": 5
+  },
+  {
+    "id": 9,
+    "name": "Thursday",
+    "parent": 2,
+    "total": 5
+  },
+  {
+    "id": 10,
+    "name": "Friday",
+    "parent": 2,
+    "total": 5
+  },
+  {
+    "id": 11,
+    "name": "Saturday",
+    "parent": 2,
+    "total": 17
+  },
+  {
+    "id": 12,
+    "name": "Sunday",
+    "parent": 2,
+    "total": 9
+  },
+  {
+    "id": 13,
+    "name": "Monday",
+    "parent": 3,
+    "total": 1
+  },
+  {
+    "id": 14,
+    "name": "Tuesday",
+    "parent": 3,
+    "total": 6
+  },
+  {
+    "id": 15,
+    "name": "Wednesday",
+    "parent": 3,
+    "total": 6
+  },
+  {
+    "id": 16,
+    "name": "Thursday",
+    "parent": 3,
+    "total": 5
+  },
+  {
+    "id": 17,
+    "name": "Friday",
+    "parent": 3,
+    "total": 4
+  },
+  {
+    "id": 18,
+    "name": "Saturday",
+    "parent": 3,
+    "total": 1
+  },
+  {
+    "id": 19,
+    "name": "Sunday",
+    "parent": 3,
+    "total": 1
+  },
+  {
+    "id": 20,
+    "name": "Tuesday",
+    "parent": 4,
+    "total": 1
+  },
+  {
+    "id": 21,
+    "name": "Wednesday",
+    "parent": 4,
+    "total": 1
+  },
+  {
+    "id": 22,
+    "name": "Friday",
+    "parent": 4,
+    "total": 1
+  },
+  {
+    "id": 23,
+    "name": "Saturday",
+    "parent": 4,
+    "total": 1
+  },
+  {
+    "id": 24,
+    "name": "Sunday",
+    "parent": 4,
+    "total": 1
+  },
+  {
+    "id": 25,
+    "name": "Saturday",
+    "parent": 5,
+    "total": 2
+  },
+  {
+    "id": 26,
+    "name": "Wednesday",
+    "parent": 6,
+    "total": 1
+  },
+  {
+    "id": 27,
+    "name": "8am-4pm",
+    "parent": 7,
+    "total": 1
+  },
+  {
+    "id": 28,
+    "name": "2:30pm-5pm",
+    "parent": 7,
+    "total": 1
+  },
+  {
+    "id": 29,
+    "name": "8am-3pm",
+    "parent": 8,
+    "total": 1
+  },
+  {
+    "id": 30,
+    "name": "8am - 6pm",
+    "parent": 8,
+    "total": 1
+  },
+  {
+    "id": 31,
+    "name": "9am-2pm",
+    "parent": 8,
+    "total": 1
+  },
+  {
+    "id": 32,
+    "name": "10am-3pm",
+    "parent": 8,
+    "total": 1
+  },
+  {
+    "id": 33,
+    "name": "2pm-5:30pm",
+    "parent": 8,
+    "total": 1
+  },
+  {
+    "id": 34,
+    "name": "8am-3pm",
+    "parent": 9,
+    "total": 2
+  },
+  {
+    "id": 35,
+    "name": "8am-4pm",
+    "parent": 9,
+    "total": 1
+  },
+  {
+    "id": 36,
+    "name": "10pm-3pm",
+    "parent": 9,
+    "total": 1
+  },
+  {
+    "id": 37,
+    "name": "1pm-7pm",
+    "parent": 9,
+    "total": 1
+  },
+  {
+    "id": 38,
+    "name": "8am-3pm",
+    "parent": 10,
+    "total": 1
+  },
+  {
+    "id": 39,
+    "name": "8am-4pm",
+    "parent": 10,
+    "total": 1
+  },
+  {
+    "id": 40,
+    "name": "8am-7pm",
+    "parent": 10,
+    "total": 1
+  },
+  {
+    "id": 41,
+    "name": "10am-5pm",
+    "parent": 10,
+    "total": 1
+  },
+  {
+    "id": 42,
+    "name": "2pm-5pm",
+    "parent": 10,
+    "total": 1
+  },
+  {
+    "id": 43,
+    "name": "8am-3pm",
+    "parent": 11,
+    "total": 5
+  },
+  {
+    "id": 44,
+    "name": "8am-2pm",
+    "parent": 11,
+    "total": 1
+  },
+  {
+    "id": 45,
+    "name": "8am-4pm",
+    "parent": 11,
+    "total": 2
+  },
+  {
+    "id": 46,
+    "name": "8:30am-3pm",
+    "parent": 11,
+    "total": 1
+  },
+  {
+    "id": 47,
+    "name": "9am-2pm",
+    "parent": 11,
+    "total": 3
+  },
+  {
+    "id": 48,
+    "name": "9am-3pm",
+    "parent": 11,
+    "total": 3
+  },
+  {
+    "id": 49,
+    "name": "9am-5pm",
+    "parent": 11,
+    "total": 1
+  },
+  {
+    "id": 50,
+    "name": "10am-3pm",
+    "parent": 11,
+    "total": 1
+  },
+  {
+    "id": 51,
+    "name": "8am-2pm",
+    "parent": 12,
+    "total": 2
+  },
+  {
+    "id": 52,
+    "name": "9am-3pm",
+    "parent": 12,
+    "total": 2
+  },
+  {
+    "id": 53,
+    "name": "9am-4pm",
+    "parent": 12,
+    "total": 1
+  },
+  {
+    "id": 54,
+    "name": "10am-3pm",
+    "parent": 12,
+    "total": 2
+  },
+  {
+    "id": 55,
+    "name": "10am-4pm",
+    "parent": 12,
+    "total": 1
+  },
+  {
+    "id": 56,
+    "name": "1pm-6pm",
+    "parent": 12,
+    "total": 1
+  },
+  {
+    "id": 57,
+    "name": "9am-3pm",
+    "parent": 13,
+    "total": 1
+  },
+  {
+    "id": 58,
+    "name": "8am-2pm",
+    "parent": 14,
+    "total": 1
+  },
+  {
+    "id": 59,
+    "name": "8am-3pm",
+    "parent": 14,
+    "total": 2
+  },
+  {
+    "id": 60,
+    "name": "8am-4pm",
+    "parent": 14,
+    "total": 2
+  },
+  {
+    "id": 61,
+    "name": "3pm-7pm",
+    "parent": 14,
+    "total": 1
+  },
+  {
+    "id": 62,
+    "name": "8am-4pm",
+    "parent": 15,
+    "total": 3
+  },
+  {
+    "id": 63,
+    "name": "10am-3pm",
+    "parent": 15,
+    "total": 1
+  },
+  {
+    "id": 64,
+    "name": "10am-7pm",
+    "parent": 15,
+    "total": 1
+  },
+  {
+    "id": 65,
+    "name": "2.30pm-6.30pm",
+    "parent": 15,
+    "total": 1
+  },
+  {
+    "id": 66,
+    "name": "8am-4pm",
+    "parent": 16,
+    "total": 1
+  },
+  {
+    "id": 67,
+    "name": "8:30am-4pm",
+    "parent": 16,
+    "total": 1
+  },
+  {
+    "id": 68,
+    "name": "9:30am-3pm",
+    "parent": 16,
+    "total": 1
+  },
+  {
+    "id": 69,
+    "name": "10am-4pm",
+    "parent": 16,
+    "total": 1
+  },
+  {
+    "id": 70,
+    "name": "3pm-6pm",
+    "parent": 16,
+    "total": 1
+  },
+  {
+    "id": 71,
+    "name": "8am-3pm",
+    "parent": 17,
+    "total": 1
+  },
+  {
+    "id": 72,
+    "name": "8am-4pm",
+    "parent": 17,
+    "total": 3
+  },
+  {
+    "id": 73,
+    "name": "10am-5pm",
+    "parent": 18,
+    "total": 1
+  },
+  {
+    "id": 74,
+    "name": "9am-2pm",
+    "parent": 19,
+    "total": 1
+  },
+  {
+    "id": 75,
+    "name": "8am-4pm",
+    "parent": 20,
+    "total": 1
+  },
+  {
+    "id": 76,
+    "name": "11am-3pm",
+    "parent": 21,
+    "total": 1
+  },
+  {
+    "id": 77,
+    "name": "10am-3pm",
+    "parent": 22,
+    "total": 1
+  },
+  {
+    "id": 78,
+    "name": "9:30am-2pm",
+    "parent": 23,
+    "total": 1
+  },
+  {
+    "id": 79,
+    "name": "8am-2pm",
+    "parent": 24,
+    "total": 1
+  },
+  {
+    "id": 80,
+    "name": "8am-3pm",
+    "parent": 25,
+    "total": 1
+  },
+  {
+    "id": 81,
+    "name": "9am-1pm",
+    "parent": 25,
+    "total": 1
+  },
+  {
+    "id": 82,
+    "name": "11am-6pm",
+    "parent": 26,
+    "total": 1
+  }
+]
